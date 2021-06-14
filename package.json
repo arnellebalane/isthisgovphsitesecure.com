@@ -1,0 +1,10 @@
+{
+  "name": "isthisgovphsitesecure.com",
+  "version": "1.0.0",
+  "description": "Show which gov.ph sites are secure and when their SSL certificates expire",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Arnelle Balane <arnellebalane@gmail.com>",
+  "license": "MIT"
+}
