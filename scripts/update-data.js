@@ -73,7 +73,8 @@ if (require.main === module) {
   const Spinnies = require('spinnies');
   const sites = require('../src/data/sites.json');
 
-  const outputPath = path.resolve(__dirname, '../src/data/sites.json');
+  const sitesOutputPath = path.resolve(__dirname, '../src/data/sites.json');
+  const metaOutputPath = path.resolve(__dirname, '../src/data/meta.json');
 
   (async () => {
     await new Promise((resolve) => {
@@ -104,7 +105,12 @@ if (require.main === module) {
       });
     });
 
-    await fs.promises.writeFile(outputPath, JSON.stringify(sites, null, '  ') + '\n');
+    const meta = {
+      lastUpdate: new Date().toISOString(),
+    };
+
+    await fs.promises.writeFile(sitesOutputPath, JSON.stringify(sites, null, '  ') + '\n');
+    await fs.promises.writeFile(metaOutputPath, JSON.stringify(meta, null, '  ') + '\n');
     process.exit(0);
   })();
 }
