@@ -13,7 +13,7 @@
   },
   {
     "title": "Department of Agrarian Reform",
-    "host": "dar.gov.ph",
+    "host": "www.dar.gov.ph",
     "status": "VALID",
     "expiry": "Feb  8 16:11:21 2022 GMT"
   },
@@ -145,9 +145,9 @@
   },
   {
     "title": "Mindanao Development Authority",
-    "host": "www.minda.gov.ph",
+    "host": "minda.gov.ph",
     "status": "VALID",
-    "expiry": "Aug  9 12:00:00 2022 GMT"
+    "expiry": "Jul 22 12:00:00 2022 GMT"
   },
   {
     "title": "National Anti-Poverty Commission",
@@ -157,7 +157,7 @@
   },
   {
     "title": "National Commission on Muslim FIlipinos",
-    "host": "www.ncmf.gov.ph",
+    "host": "ncmf.gov.ph",
     "status": "VALID",
     "expiry": "Jul 22 12:00:00 2022 GMT"
   },
@@ -178,12 +178,6 @@
     "host": "peace.gov.ph",
     "status": "VALID",
     "expiry": "Mar  1 02:47:02 2022 GMT"
-  },
-  {
-    "title": "Presidential Communications Development and Strategic Planning Office",
-    "host": "pcdspo.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 24 12:00:00 2021 GMT"
   },
   {
     "title": "Presidential Communications Operations Office",

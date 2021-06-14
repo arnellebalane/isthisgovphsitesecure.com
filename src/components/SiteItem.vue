@@ -70,8 +70,8 @@ const siteExpiry = computed(() =>
   props.site.expiry ? dayjs(props.site.expiry).format('MMMM D, YYYY hh:mm:ss A') : null
 );
 
-function visitLinkIfNoSelection() {
-  if (!document.getSelection().toString()) {
+function visitLinkIfNoSelection(event) {
+  if (!event.target.closest('a') && !document.getSelection().toString()) {
     link.value.click();
   }
 }
