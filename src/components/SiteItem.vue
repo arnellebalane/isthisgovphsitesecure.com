@@ -109,6 +109,11 @@ h2 {
   line-height: 2.8rem;
 }
 
+a {
+  display: inline-block;
+  margin-bottom: 3.6rem;
+}
+
 a::before {
   content: '';
   position: absolute;

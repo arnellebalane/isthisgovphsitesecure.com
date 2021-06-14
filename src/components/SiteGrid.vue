@@ -19,7 +19,7 @@ defineProps({
 div {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(36rem, 1fr));
-  grid-auto-rows: minmax(24rem, 1fr);
+  grid-auto-rows: minmax(20rem, 1fr);
   gap: 1.2rem;
   padding: 0;
 }
