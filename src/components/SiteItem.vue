@@ -105,7 +105,8 @@ img {
 
 h2 {
   margin-bottom: 0.5rem;
-  font-size: 1.8rem;
+  font-size: 2rem;
+  line-height: 2.8rem;
 }
 
 a::before {

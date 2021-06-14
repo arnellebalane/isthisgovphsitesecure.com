@@ -1,14 +1,17 @@
 <template>
   <div class="Wrapper">
     <Header />
-    <SiteGrid :sites="sites" />
+    <SiteGrid :sites="sortedSites" />
   </div>
 </template>
 
 <script setup>
+import sortBy from 'lodash/sortBy';
 import Header from '@components/Header.vue';
 import SiteGrid from '@components/SiteGrid.vue';
 import sites from '@data/sites.json';
+
+const sortedSites = sortBy(sites, ['status', 'title']);
 </script>
 
 <style scoped>
