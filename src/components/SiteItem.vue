@@ -9,13 +9,14 @@
     </div>
     <div class="Status">
       <p>{{ siteStatus }}</p>
-      <time v-if="site.expiry" :datetime="site.expiry">Expiry: {{ site.expiry }}</time>
+      <time v-if="site.expiry" :datetime="site.expiry">{{ siteExpired ? 'Expired' : 'Expiry' }}: {{ siteExpiry }}</time>
     </div>
   </article>
 </template>
 
 <script setup>
 import { ref, computed } from 'vue';
+import dayjs from 'dayjs';
 
 const STATUS_VALID = 'VALID';
 const STATUS_INVALID = 'INVALID';
@@ -62,6 +63,12 @@ const siteUrl = computed(() => {
   const scheme = props.site.status === STATUS_INSECURE ? 'http://' : 'https://';
   return scheme + props.site.host;
 });
+
+const siteExpired = computed(() => props.site.status === STATUS_EXPIRED);
+
+const siteExpiry = computed(() =>
+  props.site.expiry ? dayjs(props.site.expiry).format('MMMM D, YYYY hh:mm:ss A') : null
+);
 
 function visitLinkIfNoSelection() {
   if (!document.getSelection().toString()) {
