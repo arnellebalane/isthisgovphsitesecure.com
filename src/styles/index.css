@@ -8,6 +8,8 @@
 html {
   --main: #111827;
   --inverted: #fff;
+  --dimmed-100: #f9fafb;
+  --dimmed-200: #f3f4f6;
   --primary: #059669;
   --green: #059669;
   --orange: #f59e0b;
@@ -19,10 +21,11 @@ html {
 body {
   min-height: 100vh;
   font-family: 'Inter', sans-serif;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: var(--main);
+  background-color: var(--dimmed-100);
 }
 
 a,
@@ -33,7 +36,6 @@ button {
 }
 
 .Wrapper {
-  max-width: 80rem;
   padding: 2.4rem;
   margin: 0 auto;
 }
