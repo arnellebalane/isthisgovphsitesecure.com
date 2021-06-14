@@ -109,19 +109,15 @@
   },
   {
     "title": "Department of Tourism",
-    "host": "www.tourism.gov.ph",
-    "status": "UNREACHABLE"
+    "host": "beta.tourism.gov.ph",
+    "status": "VALID",
+    "expiry": "May  6 00:23:43 2022 GMT"
   },
   {
     "title": "Department of Trade and Industry",
     "host": "www.dti.gov.ph",
     "status": "VALID",
     "expiry": "Dec 20 08:16:05 2021 GMT"
-  },
-  {
-    "title": "Department of Transportation and Communications",
-    "host": "www.dotc.gov.ph",
-    "status": "UNREACHABLE"
   },
   {
     "title": "Commission on Higher Education",
@@ -155,8 +151,9 @@
   },
   {
     "title": "National Anti-Poverty Commission",
-    "host": "maps.napc.gov.ph",
-    "status": "UNREACHABLE"
+    "host": "napc.gov.ph",
+    "status": "VALID",
+    "expiry": "Jul 22 12:00:00 2022 GMT"
   },
   {
     "title": "National Commission on Muslim FIlipinos",
@@ -178,8 +175,9 @@
   },
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
-    "host": "opapp.gov.ph",
-    "status": "UNREACHABLE"
+    "host": "peace.gov.ph",
+    "status": "VALID",
+    "expiry": "Mar  1 02:47:02 2022 GMT"
   },
   {
     "title": "Presidential Communications Development and Strategic Planning Office",
