@@ -6,5 +6,8 @@
   "scripts": {},
   "keywords": [],
   "author": "Arnelle Balane <arnellebalane@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^3.1.1"
+  }
 }
