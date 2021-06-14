@@ -6,7 +6,7 @@
     </div>
     <div class="Status">
       <p>{{ siteStatus }}</p>
-      <time v-if="site.expiry" :datetime="site.expiry">{{ site.expiry }}</time>
+      <time v-if="site.expiry" :datetime="site.expiry">Expiry: {{ site.expiry }}</time>
     </div>
   </article>
 </template>
@@ -100,5 +100,39 @@ a::before {
 
 .Status {
   margin-top: auto;
+}
+
+p {
+  position: relative;
+  display: inline-block;
+  padding: 0.4rem 1.2rem;
+  border-radius: 1.6rem;
+
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: var(--highlight-color);
+}
+
+article.valid p {
+  padding-left: 2.8rem;
+  background: url('@assets/icons/check.svg') left center no-repeat;
+  background-size: contain;
+}
+
+article.danger p {
+  color: var(--inverted);
+  background-color: var(--highlight-color);
+}
+
+time {
+  display: block;
+  margin-top: 0.8rem;
+  font-size: 1.4rem;
+}
+
+article.danger time {
+  font-weight: 700;
+  color: var(--highlight-color);
 }
 </style>
