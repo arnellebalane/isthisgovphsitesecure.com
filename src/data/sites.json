@@ -1,146 +1,214 @@
 [
   {
     "title": "Office of the Vice President",
-    "url": "http://www.ovp.gov.ph/"
+    "host": "www.ovp.gov.ph",
+    "status": "VALID",
+    "expiry": "May 24 23:59:59 2022 GMT"
   },
   {
     "title": "Housing and Urban Development Coordinating Council",
-    "url": "http://www.hudcc.gov.ph/default.aspx"
+    "host": "hudcc.gov.ph",
+    "status": "VALID",
+    "expiry": "Jul 22 12:00:00 2022 GMT"
   },
   {
     "title": "Department of Agrarian Reform",
-    "url": "http://dar.gov.ph/"
+    "host": "dar.gov.ph",
+    "status": "VALID",
+    "expiry": "Feb  8 16:11:21 2022 GMT"
   },
   {
     "title": "Department of Agriculture",
-    "url": "http://www.da.gov.ph/"
+    "host": "www.da.gov.ph",
+    "status": "VALID",
+    "expiry": "Aug 10 15:02:45 2021 GMT"
   },
   {
     "title": "Department of Budget and Management",
-    "url": "http://www.dbm.gov.ph/"
+    "host": "www.dbm.gov.ph",
+    "status": "VALID",
+    "expiry": "Feb 11 03:29:31 2022 GMT"
   },
   {
     "title": "Department of Education",
-    "url": "http://www.deped.gov.ph/"
+    "host": "www.deped.gov.ph",
+    "status": "VALID",
+    "expiry": "Aug 22 15:38:47 2021 GMT"
   },
   {
     "title": "Department of Energy",
-    "url": "https://www.doe.gov.ph/"
+    "host": "www.doe.gov.ph",
+    "status": "VALID",
+    "expiry": "Oct 21 03:26:07 2021 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
-    "url": "http://denr.gov.ph/"
+    "host": "denr.gov.ph",
+    "status": "VALID",
+    "expiry": "Oct 13 03:36:02 2021 GMT"
   },
   {
     "title": "Department of Finance",
-    "url": "http://www.dof.gov.ph/"
+    "host": "www.dof.gov.ph",
+    "status": "VALID",
+    "expiry": "Oct 16 10:26:02 2021 GMT"
   },
   {
     "title": "Department of Foreign Affairs",
-    "url": "http://www.dfa.gov.ph/"
+    "host": "www.dfa.gov.ph",
+    "status": "VALID",
+    "expiry": "Aug 16 12:00:00 2022 GMT"
   },
   {
     "title": "Department of Health",
-    "url": "http://www.doh.gov.ph/"
+    "host": "www.doh.gov.ph",
+    "status": "EXPIRED",
+    "expiry": "Jun 14 05:51:09 2021 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
-    "url": "http://www.dilg.gov.ph/"
+    "host": "www.dilg.gov.ph",
+    "status": "VALID",
+    "expiry": "Apr 28 23:59:59 2022 GMT"
   },
   {
     "title": "Department of Justice",
-    "url": "http://www.doj.gov.ph/"
+    "host": "www.doj.gov.ph",
+    "status": "VALID",
+    "expiry": "Jul 23 12:00:00 2021 GMT"
   },
   {
     "title": "Department of Labor and Employment",
-    "url": "http://www.dole.gov.ph/"
+    "host": "www.dole.gov.ph",
+    "status": "VALID",
+    "expiry": "Jun 10 23:59:59 2022 GMT"
   },
   {
     "title": "Department of National Defense",
-    "url": "http://www.dnd.gov.ph/"
+    "host": "www.dnd.gov.ph",
+    "status": "VALID",
+    "expiry": "Aug 29 06:18:30 2021 GMT"
   },
   {
     "title": "Department of Public Works and Highways",
-    "url": "http://www.dpwh.gov.ph/"
+    "host": "www.dpwh.gov.ph",
+    "status": "VALID",
+    "expiry": "Nov  9 09:37:53 2021 GMT"
   },
   {
     "title": "Department of Science and Technology",
-    "url": "http://www.dost.gov.ph/"
+    "host": "www.dost.gov.ph",
+    "status": "VALID",
+    "expiry": "Jul 22 12:00:00 2022 GMT"
   },
   {
     "title": "Department of Social Welfare and Development",
-    "url": "http://www.dswd.gov.ph/"
+    "host": "www.dswd.gov.ph",
+    "status": "VALID",
+    "expiry": "Oct 17 12:00:00 2021 GMT"
   },
   {
     "title": "Department of Tourism",
-    "url": "http://www.tourism.gov.ph/pages/default.aspx"
+    "host": "www.tourism.gov.ph",
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Trade and Industry",
-    "url": "http://www.dti.gov.ph/dti/index.php"
+    "host": "www.dti.gov.ph",
+    "status": "VALID",
+    "expiry": "Dec 20 08:16:05 2021 GMT"
   },
   {
     "title": "Department of Transportation and Communications",
-    "url": "http://www.dotc.gov.ph/"
+    "host": "www.dotc.gov.ph",
+    "status": "UNREACHABLE"
   },
   {
     "title": "Commission on Higher Education",
-    "url": "http://www.ched.gov.ph/"
+    "host": "ched.gov.ph",
+    "status": "VALID",
+    "expiry": "Jul 22 12:00:00 2022 GMT"
   },
   {
     "title": "Commission on Filipino Overseas",
-    "url": "http://www.cfo.gov.ph/"
+    "host": "www.cfo.gov.ph",
+    "status": "VALID",
+    "expiry": "Sep 24 00:00:00 2021 GMT"
   },
   {
-    "title": "Governance Commission for GOCC’s",
-    "url": "http://gcg.gov.ph/"
+    "title": "Governance Commission for GOCC's",
+    "host": "gcg.gov.ph",
+    "status": "VALID",
+    "expiry": "Aug 28 19:15:25 2021 GMT"
   },
   {
     "title": "Metropolitan Manila Development Authority",
-    "url": "http://www.mmda.gov.ph/"
+    "host": "www.mmda.gov.ph",
+    "status": "VALID",
+    "expiry": "Jul 22 12:00:00 2022 GMT"
   },
   {
     "title": "Mindanao Development Authority",
-    "url": "http://www.minda.gov.ph/"
+    "host": "www.minda.gov.ph",
+    "status": "VALID",
+    "expiry": "Aug  9 12:00:00 2022 GMT"
   },
   {
     "title": "National Anti-Poverty Commission",
-    "url": "http://maps.napc.gov.ph/drupal/"
+    "host": "maps.napc.gov.ph",
+    "status": "UNREACHABLE"
   },
   {
     "title": "National Commission on Muslim FIlipinos",
-    "url": "http://www.ncmf.gov.ph/"
+    "host": "www.ncmf.gov.ph",
+    "status": "VALID",
+    "expiry": "Jul 22 12:00:00 2022 GMT"
   },
   {
     "title": "National Economic and Development Authority",
-    "url": "http://www.neda.gov.ph/"
+    "host": "www.neda.gov.ph",
+    "status": "VALID",
+    "expiry": "Apr 25 11:46:02 2022 GMT"
   },
   {
     "title": "National Security Council",
-    "url": "http://www.nsc.gov.ph/"
+    "host": "nsc.gov.ph",
+    "status": "VALID",
+    "expiry": "Jul 22 12:00:00 2022 GMT"
   },
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
-    "url": "http://opapp.gov.ph/"
+    "host": "opapp.gov.ph",
+    "status": "UNREACHABLE"
   },
   {
     "title": "Presidential Communications Development and Strategic Planning Office",
-    "url": "http://pcdspo.gov.ph/"
+    "host": "pcdspo.gov.ph",
+    "status": "VALID",
+    "expiry": "Jul 24 12:00:00 2021 GMT"
   },
   {
     "title": "Presidential Communications Operations Office",
-    "url": "http://www.pcoo.gov.ph/"
+    "host": "www.pcoo.gov.ph",
+    "status": "VALID",
+    "expiry": "Mar  1 01:21:13 2022 GMT"
   },
   {
     "title": "Presidential Legislative Liaison Office",
-    "url": "http://pllo.gov.ph/"
+    "host": "pllo.gov.ph",
+    "status": "VALID",
+    "expiry": "Sep  9 21:21:18 2021 GMT"
   },
   {
     "title": "Presidential Management Staff",
-    "url": "http://www.pms.gov.ph/"
+    "host": "www.pms.gov.ph",
+    "status": "VALID",
+    "expiry": "Jul 22 12:00:00 2022 GMT"
   },
   {
     "title": "Technical Education and Skills Development Authority",
-    "url": "http://www.tesda.gov.ph/"
+    "host": "www.tesda.gov.ph",
+    "status": "VALID",
+    "expiry": "Sep  1 03:09:17 2021 GMT"
   }
 ]

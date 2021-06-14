@@ -14,5 +14,8 @@
     "@vitejs/plugin-vue": "^1.2.3",
     "vite": "^2.3.7",
     "vue": "^3.1.1"
+  },
+  "devDependencies": {
+    "spinnies": "^0.5.1"
   }
 }
