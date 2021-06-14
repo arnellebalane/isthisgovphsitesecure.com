@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Show which gov.ph sites are secure and when their SSL certificates expire",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
   "keywords": [],
   "author": "Arnelle Balane <arnellebalane@gmail.com>",
   "license": "MIT",
