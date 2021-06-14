@@ -1,7 +1,7 @@
-const path = require('path');
-const VuePlugin = require('@vitejs/plugin-vue');
+import path from 'path';
+import VuePlugin from '@vitejs/plugin-vue';
 
-module.exports = {
+export default {
   plugins: [VuePlugin()],
 
   resolve: {
