@@ -1,9 +1,7 @@
 <template>
-  <div class="Wrapper">
-    <ol>
-      <SiteItem v-for="site in sites" :key="site.host" :site="site" />
-    </ol>
-  </div>
+  <ol class="SiteGrid">
+    <SiteItem v-for="site in sites" :key="site.host" :site="site" />
+  </ol>
 </template>
 
 <script setup>
