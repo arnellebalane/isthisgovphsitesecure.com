@@ -160,4 +160,24 @@ article.danger time {
   font-weight: 700;
   color: var(--highlight-color);
 }
+
+@media (max-width: 560px) {
+  article {
+    border: none;
+    border-bottom: 1px solid var(--dimmed-200);
+  }
+
+  article:first-child {
+    border-top: 1px solid var(--dimmed-200);
+  }
+
+  article:focus-within,
+  article:hover {
+    box-shadow: inset 0 0 0 4px var(--highlight-color);
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+}
 </style>

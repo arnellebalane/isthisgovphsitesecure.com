@@ -23,4 +23,12 @@ div {
   gap: 1.2rem;
   padding: 0;
 }
+
+@media (max-width: 560px) {
+  div {
+    grid-template-columns: 1fr;
+    grid-auto-rows: min-content;
+    gap: 0;
+  }
+}
 </style>

@@ -21,4 +21,11 @@ const sortedSites = sortBy(sites, ['status', 'title']);
   gap: 2.4rem;
   padding: 2.4rem;
 }
+
+@media (max-width: 560px) {
+  .Wrapper {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
 </style>
