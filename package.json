@@ -8,6 +8,8 @@
   "author": "Arnelle Balane <arnellebalane@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@vitejs/plugin-vue": "^1.2.3",
+    "vite": "^2.3.7",
     "vue": "^3.1.1"
   }
 }
