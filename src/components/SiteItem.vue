@@ -1,8 +1,11 @@
 <template>
   <article :class="itemClass">
     <div class="Site">
-      <h2>{{ site.title }}</h2>
-      <a :href="siteUrl" target="_blank" rel="noopener noreferrer">{{ siteUrl }}</a>
+      <div class="Title">
+        <h2>{{ site.title }}</h2>
+        <a :href="siteUrl" target="_blank" rel="noopener noreferrer">{{ siteUrl }}</a>
+      </div>
+      <img v-if="site.logo" :src="site.logo" :alt="site.title" />
     </div>
     <div class="Status">
       <p>{{ siteStatus }}</p>
@@ -82,6 +85,22 @@ article.valid {
 
 article.danger {
   --highlight-color: var(--red);
+}
+
+.Site {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.6rem;
+}
+
+.Title {
+  flex-grow: 1;
+}
+
+img {
+  flex-shrink: 0;
+  display: block;
+  width: 4.8rem;
 }
 
 h2 {

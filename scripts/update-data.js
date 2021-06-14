@@ -92,6 +92,7 @@ if (require.main === module) {
           sites[i] = {
             title: site.title,
             host: site.host,
+            logo: site.logo,
             status: result.status,
             expiry: result.expiry,
           };

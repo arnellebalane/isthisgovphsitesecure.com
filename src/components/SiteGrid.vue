@@ -18,7 +18,7 @@ defineProps({
 <style scoped>
 div {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(36rem, 1fr));
   grid-auto-rows: 20rem;
   gap: 1.2rem;
   padding: 0;
