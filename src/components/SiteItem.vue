@@ -1,5 +1,5 @@
 <template>
-  <li :class="itemClass">
+  <article :class="itemClass">
     <div class="Site">
       <h2>{{ site.title }}</h2>
       <a :href="siteUrl" target="_blank" rel="noopener noreferrer">{{ siteUrl }}</a>
@@ -8,7 +8,7 @@
       <p>{{ siteStatus }}</p>
       <time v-if="site.expiry" :datetime="site.expiry">{{ site.expiry }}</time>
     </div>
-  </li>
+  </article>
 </template>
 
 <script setup>
@@ -61,7 +61,8 @@ const siteUrl = computed(() => {
 </script>
 
 <style scoped>
-li {
+article {
+  position: relative;
   display: flex;
   flex-direction: column;
 
@@ -70,9 +71,31 @@ li {
   background-color: var(--inverted);
 }
 
+article:focus-within,
+article:hover {
+  box-shadow: 0 0 0 4px var(--highlight-color);
+}
+
+article.valid {
+  --highlight-color: var(--green);
+}
+
+article.danger {
+  --highlight-color: var(--red);
+}
+
 h2 {
   margin-bottom: 0.5rem;
   font-size: 1.8rem;
+}
+
+a::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 
 .Status {

@@ -5,10 +5,8 @@
 </template>
 
 <style scoped>
-svg {
-  width: 4rem;
-  height: 4rem;
-  transform: translate(0.6rem, 0.4rem);
+section {
+  padding: 2.4rem 0;
 }
 
 h1 {

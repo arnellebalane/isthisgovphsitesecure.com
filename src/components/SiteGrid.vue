@@ -1,7 +1,7 @@
 <template>
-  <ol class="SiteGrid">
+  <div class="SiteGrid">
     <SiteItem v-for="site in sites" :key="site.host" :site="site" />
-  </ol>
+  </div>
 </template>
 
 <script setup>
@@ -16,13 +16,11 @@ defineProps({
 </script>
 
 <style scoped>
-ol {
+div {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
   grid-auto-rows: 20rem;
   gap: 1.2rem;
-
   padding: 0;
-  list-style: none;
 }
 </style>
