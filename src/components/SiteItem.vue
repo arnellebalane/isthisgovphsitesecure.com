@@ -1,9 +1,9 @@
 <template>
-  <article :class="itemClass">
+  <article :class="itemClass" @click="visitLinkIfNoSelection">
     <div class="Site">
       <div class="Title">
         <h2>{{ site.title }}</h2>
-        <a :href="siteUrl" target="_blank" rel="noopener noreferrer">{{ siteUrl }}</a>
+        <a ref="link" :href="siteUrl" target="_blank" rel="noopener noreferrer">{{ siteUrl }}</a>
       </div>
       <img v-if="site.logo" :src="site.logo" :alt="site.title" />
     </div>
@@ -15,7 +15,7 @@
 </template>
 
 <script setup>
-import { computed } from 'vue';
+import { ref, computed } from 'vue';
 
 const STATUS_VALID = 'VALID';
 const STATUS_INVALID = 'INVALID';
@@ -29,6 +29,7 @@ const props = defineProps({
     required: true,
   },
 });
+const link = ref(null);
 
 const itemClass = computed(() => {
   switch (props.site.status) {
@@ -61,6 +62,12 @@ const siteUrl = computed(() => {
   const scheme = props.site.status === STATUS_INSECURE ? 'http://' : 'https://';
   return scheme + props.site.host;
 });
+
+function visitLinkIfNoSelection() {
+  if (!document.getSelection().toString()) {
+    link.value.click();
+  }
+}
 </script>
 
 <style scoped>
@@ -72,6 +79,7 @@ article {
   padding: 2.4rem;
   border: 1px solid var(--dimmed-200);
   background-color: var(--inverted);
+  cursor: pointer;
 }
 
 article:focus-within,
@@ -112,15 +120,6 @@ h2 {
 a {
   display: inline-block;
   margin-bottom: 3.6rem;
-}
-
-a::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
 }
 
 .Status {
