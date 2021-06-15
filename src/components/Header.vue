@@ -40,6 +40,7 @@ span {
   }
 
   h1 {
+    margin-bottom: 0.8rem;
     font-size: 2.4rem;
     text-align: center;
   }
