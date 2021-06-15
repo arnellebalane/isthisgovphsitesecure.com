@@ -13,7 +13,8 @@ import Footer from '@components/Footer.vue';
 import SiteGrid from '@components/SiteGrid.vue';
 import sites from '@data/sites.json';
 
-const sortedSites = sortBy(sites, ['status', 'title']);
+const siteExpiry = (site) => (site.expiry ? new Date(site.expiry) : null);
+const sortedSites = sortBy(sites, ['status', siteExpiry, 'title']);
 </script>
 
 <style scoped>
