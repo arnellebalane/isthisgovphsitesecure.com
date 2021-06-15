@@ -127,6 +127,7 @@ h2 {
 a {
   display: inline-block;
   margin-bottom: 3.6rem;
+  color: var(--dimmed-300);
 }
 
 .Status {
@@ -160,6 +161,7 @@ time {
   display: block;
   margin-top: 0.8rem;
   font-size: 1.4rem;
+  color: var(--dimmed-300);
 }
 
 article.danger time {

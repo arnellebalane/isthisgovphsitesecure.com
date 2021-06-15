@@ -2,12 +2,14 @@
   <div class="Wrapper">
     <Header />
     <SiteGrid :sites="sortedSites" />
+    <Footer />
   </div>
 </template>
 
 <script setup>
 import sortBy from 'lodash/sortBy';
 import Header from '@components/Header.vue';
+import Footer from '@components/Footer.vue';
 import SiteGrid from '@components/SiteGrid.vue';
 import sites from '@data/sites.json';
 
