@@ -62,7 +62,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -207,5 +207,23 @@
     "host": "pnp.gov.ph",
     "status": "VALID",
     "expiry": "Jul 22 12:00:00 2022 GMT"
+  },
+  {
+    "title": "Social Security System",
+    "host": "www.sss.gov.ph",
+    "status": "VALID",
+    "expiry": "Apr 23 11:06:03 2022 GMT"
+  },
+  {
+    "title": "PhilHealth",
+    "host": "www.philhealth.gov.ph",
+    "status": "VALID",
+    "expiry": "Mar  3 09:46:04 2022 GMT"
+  },
+  {
+    "title": "Pag-IBIG Fund",
+    "host": "www.pagibigfund.gov.ph",
+    "status": "VALID",
+    "expiry": "Jan 10 23:59:59 2022 GMT"
   }
 ]
