@@ -2,7 +2,8 @@
   {
     "title": "Office of the Vice President",
     "host": "www.ovp.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "May 24 23:59:59 2022 GMT"
   },
   {
     "title": "Housing and Urban Development Coordinating Council",
