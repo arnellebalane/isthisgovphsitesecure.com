@@ -134,8 +134,7 @@
   {
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
-    "status": "VALID",
-    "expiry": "Aug 28 19:15:25 2021 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Metropolitan Manila Development Authority",
@@ -200,7 +199,7 @@
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
     "status": "VALID",
-    "expiry": "Sep 29 05:09:59 2021 GMT"
+    "expiry": "Oct 13 06:10:26 2021 GMT"
   },
   {
     "title": "Philippine National Police",
