@@ -134,7 +134,8 @@
   {
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Aug 28 19:15:25 2021 GMT"
   },
   {
     "title": "Metropolitan Manila Development Authority",
