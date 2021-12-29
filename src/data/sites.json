@@ -3,7 +3,7 @@
     "title": "Office of the Vice President",
     "host": "www.ovp.gov.ph",
     "status": "VALID",
-    "expiry": "Dec 23 10:53:12 2021 GMT"
+    "expiry": "Dec  9 23:59:59 2022 GMT"
   },
   {
     "title": "Housing and Urban Development Coordinating Council",
@@ -21,7 +21,7 @@
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
     "status": "VALID",
-    "expiry": "Dec  9 15:02:25 2021 GMT"
+    "expiry": "Feb  9 03:03:29 2022 GMT"
   },
   {
     "title": "Department of Budget and Management",
@@ -33,7 +33,7 @@
     "title": "Department of Education",
     "host": "www.deped.gov.ph",
     "status": "VALID",
-    "expiry": "Aug 23 02:38:47 2022 GMT"
+    "expiry": "Aug 31 11:24:53 2022 GMT"
   },
   {
     "title": "Department of Energy",
@@ -57,13 +57,13 @@
     "title": "Department of Foreign Affairs",
     "host": "www.dfa.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 22 12:00:00 2022 GMT"
+    "expiry": "Aug 16 12:00:00 2022 GMT"
   },
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 17 00:46:04 2022 GMT"
+    "expiry": "Jul 22 12:00:00 2022 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -87,13 +87,13 @@
     "title": "Department of National Defense",
     "host": "www.dnd.gov.ph",
     "status": "VALID",
-    "expiry": "Jan  7 03:39:23 2022 GMT"
+    "expiry": "Mar  6 11:42:22 2022 GMT"
   },
   {
     "title": "Department of Public Works and Highways",
     "host": "www.dpwh.gov.ph",
     "status": "VALID",
-    "expiry": "Nov  9 09:37:53 2021 GMT"
+    "expiry": "Nov  8 09:27:23 2022 GMT"
   },
   {
     "title": "Department of Science and Technology",
@@ -117,7 +117,7 @@
     "title": "Department of Trade and Industry",
     "host": "www.dti.gov.ph",
     "status": "VALID",
-    "expiry": "Dec 20 08:16:05 2021 GMT"
+    "expiry": "Jan 14 06:46:21 2023 GMT"
   },
   {
     "title": "Commission on Higher Education",
@@ -129,13 +129,13 @@
     "title": "Commission on Filipino Overseas",
     "host": "www.cfo.gov.ph",
     "status": "VALID",
-    "expiry": "Dec 23 23:59:59 2021 GMT"
+    "expiry": "Dec 17 10:06:07 2022 GMT"
   },
   {
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
     "status": "VALID",
-    "expiry": "Dec 27 01:39:00 2021 GMT"
+    "expiry": "Feb 25 01:26:24 2022 GMT"
   },
   {
     "title": "Metropolitan Manila Development Authority",
@@ -165,7 +165,7 @@
     "title": "National Economic and Development Authority",
     "host": "www.neda.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 13 07:21:25 2022 GMT"
+    "expiry": "Jul 22 12:00:00 2022 GMT"
   },
   {
     "title": "National Security Council",
@@ -188,7 +188,7 @@
     "title": "Presidential Legislative Liaison Office",
     "host": "pllo.gov.ph",
     "status": "VALID",
-    "expiry": "Nov 23 23:59:59 2021 GMT"
+    "expiry": "Feb  7 23:59:59 2022 GMT"
   },
   {
     "title": "Presidential Management Staff",
@@ -224,6 +224,6 @@
     "title": "Pag-IBIG Fund",
     "host": "www.pagibigfund.gov.ph",
     "status": "VALID",
-    "expiry": "Jan 10 23:59:59 2022 GMT"
+    "expiry": "Dec 15 23:59:59 2022 GMT"
   }
 ]
