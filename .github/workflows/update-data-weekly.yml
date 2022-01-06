@@ -1,0 +1,17 @@
+name: Update data
+on:
+  schedule:
+    - cron: "* * * * *"
+
+jobs:
+  update_data:
+    steps:
+      - uses: actions/checkout@v2
+      - run: npm ci
+      - run: node scripts/update-data.js
+      - uses: EndBug/add-and-commit@v7
+        with:
+          author_name: Arnelle Balane
+          author_email: arnellebalane@gmail.com
+          message: Update data (via GitHub Actions)
+          add: "src/data/*"
