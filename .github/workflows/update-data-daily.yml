@@ -1,10 +1,11 @@
 name: Update data
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update_data:
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - run: npm ci
