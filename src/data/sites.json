@@ -20,8 +20,7 @@
   {
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 10 03:02:59 2022 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Budget and Management",
@@ -104,8 +103,7 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "VALID",
-    "expiry": "Aug 18 23:59:59 2022 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Tourism",
@@ -129,7 +127,7 @@
     "title": "Commission on Filipino Overseas",
     "host": "www.cfo.gov.ph",
     "status": "VALID",
-    "expiry": "Dec 17 10:06:07 2022 GMT"
+    "expiry": "Jul 22 12:00:00 2022 GMT"
   },
   {
     "title": "Governance Commission for GOCC's",
@@ -217,7 +215,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Mar  3 09:46:04 2022 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
