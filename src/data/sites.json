@@ -103,7 +103,8 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Aug 18 23:59:59 2022 GMT"
   },
   {
     "title": "Department of Tourism",
@@ -127,7 +128,7 @@
     "title": "Commission on Filipino Overseas",
     "host": "www.cfo.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 22 12:00:00 2022 GMT"
+    "expiry": "Dec 17 10:06:07 2022 GMT"
   },
   {
     "title": "Governance Commission for GOCC's",
@@ -215,8 +216,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Mar  3 09:46:04 2022 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
