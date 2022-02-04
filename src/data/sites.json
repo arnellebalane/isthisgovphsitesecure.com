@@ -62,8 +62,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 22 12:00:00 2022 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -176,7 +175,7 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "INSECURE"
   },
   {
     "title": "Presidential Communications Operations Office",
@@ -199,7 +198,7 @@
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
     "status": "VALID",
-    "expiry": "Apr 20 06:30:50 2022 GMT"
+    "expiry": "May  4 07:31:02 2022 GMT"
   },
   {
     "title": "Philippine National Police",
@@ -216,8 +215,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Mar  3 09:46:04 2022 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
