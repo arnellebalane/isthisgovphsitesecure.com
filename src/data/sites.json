@@ -86,7 +86,8 @@
   {
     "title": "Department of National Defense",
     "host": "www.dnd.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "May  8 01:32:06 2022 GMT"
   },
   {
     "title": "Department of Public Works and Highways",
@@ -133,7 +134,8 @@
   {
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Apr 27 14:17:11 2022 GMT"
   },
   {
     "title": "Metropolitan Manila Development Authority",
@@ -214,8 +216,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Mar 28 07:36:07 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
