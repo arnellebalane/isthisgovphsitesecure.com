@@ -21,7 +21,7 @@
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
     "status": "VALID",
-    "expiry": "Apr 10 03:02:59 2022 GMT"
+    "expiry": "Jun  9 03:06:15 2022 GMT"
   },
   {
     "title": "Department of Budget and Management",
@@ -176,7 +176,7 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "INSECURE"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Presidential Communications Operations Office",
