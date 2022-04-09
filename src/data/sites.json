@@ -176,8 +176,7 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "VALID",
-    "expiry": "Mar  1 02:47:02 2023 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Presidential Communications Operations Office",
@@ -212,13 +211,12 @@
     "title": "Social Security System",
     "host": "www.sss.gov.ph",
     "status": "VALID",
-    "expiry": "Apr 23 11:06:03 2022 GMT"
+    "expiry": "May  2 03:46:07 2023 GMT"
   },
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Mar 28 07:36:07 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
