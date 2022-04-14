@@ -98,7 +98,8 @@
   {
     "title": "Department of Science and Technology",
     "host": "www.dost.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jul 22 12:00:00 2022 GMT"
   },
   {
     "title": "Department of Social Welfare and Development",
@@ -133,8 +134,7 @@
   {
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
-    "status": "VALID",
-    "expiry": "May  3 00:51:09 2023 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Metropolitan Manila Development Authority",
@@ -175,8 +175,7 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "VALID",
-    "expiry": "Mar  1 02:47:02 2023 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Presidential Communications Operations Office",
@@ -198,8 +197,7 @@
   {
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun 29 11:32:22 2022 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Philippine National Police",
