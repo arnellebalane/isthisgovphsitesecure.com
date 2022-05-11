@@ -21,7 +21,7 @@
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
     "status": "VALID",
-    "expiry": "Jun  9 03:06:15 2022 GMT"
+    "expiry": "Aug  8 03:02:23 2022 GMT"
   },
   {
     "title": "Department of Budget and Management",
@@ -81,7 +81,7 @@
     "title": "Department of Labor and Employment",
     "host": "www.dole.gov.ph",
     "status": "VALID",
-    "expiry": "Jun 10 23:59:59 2022 GMT"
+    "expiry": "May 11 23:59:59 2023 GMT"
   },
   {
     "title": "Department of National Defense",
@@ -129,7 +129,7 @@
     "title": "Commission on Filipino Overseas",
     "host": "www.cfo.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 22 12:00:00 2022 GMT"
+    "expiry": "Dec 17 10:06:07 2022 GMT"
   },
   {
     "title": "Governance Commission for GOCC's",
@@ -176,7 +176,8 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Mar  1 02:47:02 2023 GMT"
   },
   {
     "title": "Presidential Communications Operations Office",
