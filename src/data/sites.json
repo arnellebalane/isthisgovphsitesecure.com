@@ -38,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jan 21 05:16:08 2023 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -128,7 +129,7 @@
     "title": "Commission on Filipino Overseas",
     "host": "www.cfo.gov.ph",
     "status": "VALID",
-    "expiry": "Dec 17 10:06:07 2022 GMT"
+    "expiry": "Jul 22 12:00:00 2022 GMT"
   },
   {
     "title": "Governance Commission for GOCC's",
@@ -175,7 +176,8 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Mar  1 02:47:02 2023 GMT"
   },
   {
     "title": "Presidential Communications Operations Office",
