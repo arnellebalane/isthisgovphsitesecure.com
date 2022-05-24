@@ -165,7 +165,7 @@
     "title": "National Economic and Development Authority",
     "host": "www.neda.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 22 12:00:00 2022 GMT"
+    "expiry": "Apr 16 01:16:07 2023 GMT"
   },
   {
     "title": "National Security Council",
@@ -176,7 +176,8 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Mar  1 02:47:02 2023 GMT"
   },
   {
     "title": "Presidential Communications Operations Office",
