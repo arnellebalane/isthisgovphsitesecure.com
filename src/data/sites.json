@@ -62,7 +62,8 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jul 22 12:00:00 2022 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
