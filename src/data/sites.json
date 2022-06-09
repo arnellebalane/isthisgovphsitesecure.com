@@ -217,7 +217,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Mar 28 07:36:07 2023 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
