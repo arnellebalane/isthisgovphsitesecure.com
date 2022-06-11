@@ -68,8 +68,7 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "VALID",
-    "expiry": "May  3 23:59:59 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Justice",
@@ -176,7 +175,8 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Mar  1 02:47:02 2023 GMT"
   },
   {
     "title": "Presidential Communications Operations Office",
@@ -216,8 +216,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Mar 28 07:36:07 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
