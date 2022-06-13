@@ -68,7 +68,8 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "May  3 23:59:59 2023 GMT"
   },
   {
     "title": "Department of Justice",
@@ -128,7 +129,7 @@
     "title": "Commission on Filipino Overseas",
     "host": "www.cfo.gov.ph",
     "status": "VALID",
-    "expiry": "Dec 17 10:06:07 2022 GMT"
+    "expiry": "Jul 22 12:00:00 2022 GMT"
   },
   {
     "title": "Governance Commission for GOCC's",
