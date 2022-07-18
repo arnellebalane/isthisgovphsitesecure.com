@@ -62,13 +62,13 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "EXPIRED",
-    "expiry": "Jul 17 00:46:04 2022 GMT"
+    "status": "VALID",
+    "expiry": "Jul 16 23:41:02 2023 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "INSECURE"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Justice",
