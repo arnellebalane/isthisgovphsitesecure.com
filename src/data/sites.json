@@ -9,7 +9,7 @@
     "title": "Housing and Urban Development Coordinating Council",
     "host": "hudcc.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 22 12:00:00 2022 GMT"
+    "expiry": "Jul 20 11:43:48 2023 GMT"
   },
   {
     "title": "Department of Agrarian Reform",
@@ -38,8 +38,7 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "VALID",
-    "expiry": "Jan 21 05:16:08 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -98,7 +97,7 @@
     "title": "Department of Science and Technology",
     "host": "www.dost.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 22 12:00:00 2022 GMT"
+    "expiry": "Jul 21 02:17:21 2023 GMT"
   },
   {
     "title": "Department of Social Welfare and Development",
@@ -122,13 +121,13 @@
     "title": "Commission on Higher Education",
     "host": "ched.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 22 12:00:00 2022 GMT"
+    "expiry": "Jul 20 13:45:05 2023 GMT"
   },
   {
     "title": "Commission on Filipino Overseas",
     "host": "www.cfo.gov.ph",
     "status": "VALID",
-    "expiry": "Dec 17 10:06:07 2022 GMT"
+    "expiry": "Jul 20 13:29:27 2023 GMT"
   },
   {
     "title": "Governance Commission for GOCC's",
@@ -140,25 +139,25 @@
     "title": "Metropolitan Manila Development Authority",
     "host": "www.mmda.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 22 12:00:00 2022 GMT"
+    "expiry": "Jul 20 11:40:28 2023 GMT"
   },
   {
     "title": "Mindanao Development Authority",
     "host": "minda.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 22 12:00:00 2022 GMT"
+    "expiry": "Jul 20 11:45:55 2023 GMT"
   },
   {
     "title": "National Anti-Poverty Commission",
     "host": "napc.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 22 12:00:00 2022 GMT"
+    "expiry": "Jul 20 11:46:44 2023 GMT"
   },
   {
     "title": "National Commission on Muslim FIlipinos",
     "host": "ncmf.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 22 12:00:00 2022 GMT"
+    "expiry": "Jul 20 11:47:16 2023 GMT"
   },
   {
     "title": "National Economic and Development Authority",
@@ -170,7 +169,7 @@
     "title": "National Security Council",
     "host": "nsc.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 22 12:00:00 2022 GMT"
+    "expiry": "Jul 21 08:15:47 2023 GMT"
   },
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
@@ -193,19 +192,19 @@
     "title": "Presidential Management Staff",
     "host": "www.pms.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 22 12:00:00 2022 GMT"
+    "expiry": "Jul 21 03:21:50 2023 GMT"
   },
   {
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
     "status": "VALID",
-    "expiry": "Oct  5 18:21:24 2022 GMT"
+    "expiry": "Oct 19 19:21:19 2022 GMT"
   },
   {
     "title": "Philippine National Police",
     "host": "pnp.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 22 12:00:00 2022 GMT"
+    "expiry": "Jul 20 14:08:41 2023 GMT"
   },
   {
     "title": "Social Security System",
