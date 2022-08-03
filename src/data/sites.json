@@ -38,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jan 21 05:16:08 2023 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -127,7 +128,7 @@
     "title": "Commission on Filipino Overseas",
     "host": "www.cfo.gov.ph",
     "status": "VALID",
-    "expiry": "Dec 17 10:06:07 2022 GMT"
+    "expiry": "Jul 20 13:29:27 2023 GMT"
   },
   {
     "title": "Governance Commission for GOCC's",
@@ -215,7 +216,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Mar 28 07:36:07 2023 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
