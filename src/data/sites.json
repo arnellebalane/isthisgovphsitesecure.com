@@ -2,20 +2,17 @@
   {
     "title": "Office of the Vice President",
     "host": "www.ovp.gov.ph",
-    "status": "VALID",
-    "expiry": "Dec  9 23:59:59 2022 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Housing and Urban Development Coordinating Council",
     "host": "hudcc.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 20 11:43:48 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Agrarian Reform",
     "host": "www.dar.gov.ph",
-    "status": "VALID",
-    "expiry": "Mar  8 12:17:36 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Agriculture",
@@ -32,14 +29,12 @@
   {
     "title": "Department of Education",
     "host": "www.deped.gov.ph",
-    "status": "VALID",
-    "expiry": "Aug 31 11:24:53 2022 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "VALID",
-    "expiry": "Jan 21 05:16:08 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -79,8 +74,7 @@
   {
     "title": "Department of Labor and Employment",
     "host": "www.dole.gov.ph",
-    "status": "VALID",
-    "expiry": "May 11 23:59:59 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of National Defense",
@@ -91,14 +85,12 @@
   {
     "title": "Department of Public Works and Highways",
     "host": "www.dpwh.gov.ph",
-    "status": "VALID",
-    "expiry": "Nov  8 09:27:23 2022 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Science and Technology",
     "host": "www.dost.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 21 02:17:21 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Social Welfare and Development",
@@ -121,8 +113,7 @@
   {
     "title": "Commission on Higher Education",
     "host": "ched.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 20 13:45:05 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Commission on Filipino Overseas",
@@ -139,8 +130,7 @@
   {
     "title": "Metropolitan Manila Development Authority",
     "host": "www.mmda.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 20 11:40:28 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Mindanao Development Authority",
@@ -157,8 +147,7 @@
   {
     "title": "National Commission on Muslim FIlipinos",
     "host": "ncmf.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 20 11:47:16 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "National Economic and Development Authority",
@@ -175,7 +164,8 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Mar  1 02:47:02 2023 GMT"
   },
   {
     "title": "Presidential Communications Operations Office",
@@ -191,32 +181,27 @@
   {
     "title": "Presidential Management Staff",
     "host": "www.pms.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 21 03:21:50 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
-    "status": "VALID",
-    "expiry": "Oct 19 19:21:19 2022 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Philippine National Police",
     "host": "pnp.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 20 14:08:41 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Social Security System",
     "host": "www.sss.gov.ph",
-    "status": "VALID",
-    "expiry": "May  2 03:46:07 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Mar 28 07:36:07 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
