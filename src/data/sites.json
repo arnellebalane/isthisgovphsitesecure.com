@@ -128,7 +128,7 @@
     "title": "Commission on Filipino Overseas",
     "host": "www.cfo.gov.ph",
     "status": "VALID",
-    "expiry": "Aug 19 03:11:02 2023 GMT"
+    "expiry": "Jul 20 13:29:27 2023 GMT"
   },
   {
     "title": "Governance Commission for GOCC's",
@@ -175,8 +175,7 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "VALID",
-    "expiry": "Mar  1 02:47:02 2023 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Presidential Communications Operations Office",
@@ -210,8 +209,7 @@
   {
     "title": "Social Security System",
     "host": "www.sss.gov.ph",
-    "status": "VALID",
-    "expiry": "May  2 03:46:07 2023 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "PhilHealth",
