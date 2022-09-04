@@ -38,8 +38,7 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "VALID",
-    "expiry": "Jan 21 05:16:08 2023 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -128,7 +127,7 @@
     "title": "Commission on Filipino Overseas",
     "host": "www.cfo.gov.ph",
     "status": "VALID",
-    "expiry": "Aug 19 03:11:02 2023 GMT"
+    "expiry": "Jul 20 13:29:27 2023 GMT"
   },
   {
     "title": "Governance Commission for GOCC's",
