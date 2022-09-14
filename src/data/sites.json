@@ -49,7 +49,8 @@
   {
     "title": "Department of Finance",
     "host": "www.dof.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Nov 13 07:46:05 2022 GMT"
   },
   {
     "title": "Department of Foreign Affairs",
@@ -126,7 +127,7 @@
     "title": "Commission on Filipino Overseas",
     "host": "www.cfo.gov.ph",
     "status": "VALID",
-    "expiry": "Aug 19 03:11:02 2023 GMT"
+    "expiry": "Jul 20 13:29:27 2023 GMT"
   },
   {
     "title": "Governance Commission for GOCC's",
@@ -173,7 +174,8 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Mar  1 02:47:02 2023 GMT"
   },
   {
     "title": "Presidential Communications Operations Office",
@@ -195,7 +197,8 @@
   {
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Oct 19 19:21:19 2022 GMT"
   },
   {
     "title": "Philippine National Police",
