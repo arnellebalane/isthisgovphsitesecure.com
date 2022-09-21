@@ -38,8 +38,7 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "VALID",
-    "expiry": "Jan 21 05:16:08 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -199,7 +198,7 @@
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
     "status": "VALID",
-    "expiry": "Oct 19 19:21:19 2022 GMT"
+    "expiry": "Dec 16 23:59:59 2022 GMT"
   },
   {
     "title": "Philippine National Police",
