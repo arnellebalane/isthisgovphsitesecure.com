@@ -38,8 +38,7 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "VALID",
-    "expiry": "Jan 21 05:16:08 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -140,7 +139,7 @@
     "title": "Metropolitan Manila Development Authority",
     "host": "www.mmda.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 20 11:40:28 2023 GMT"
+    "expiry": "Jul 20 11:46:06 2023 GMT"
   },
   {
     "title": "Mindanao Development Authority",
