@@ -26,8 +26,7 @@
   {
     "title": "Department of Budget and Management",
     "host": "www.dbm.gov.ph",
-    "status": "VALID",
-    "expiry": "Feb 10 16:09:11 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Education",
@@ -128,7 +127,7 @@
     "title": "Commission on Filipino Overseas",
     "host": "www.cfo.gov.ph",
     "status": "VALID",
-    "expiry": "Aug 19 03:11:02 2023 GMT"
+    "expiry": "Jul 20 13:29:27 2023 GMT"
   },
   {
     "title": "Governance Commission for GOCC's",
