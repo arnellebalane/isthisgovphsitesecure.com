@@ -68,7 +68,7 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Justice",
@@ -217,8 +217,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Mar 28 07:36:07 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
@@ -230,5 +229,29 @@
     "title": "Climate Change Commission",
     "host": "https://www.climate.gov.ph/",
     "status": "UNREACHABLE"
+  },
+  {
+    "title": "Department of Information and Communications Technology",
+    "host": "dict.gov.ph",
+    "status": "VALID",
+    "expiry": "Jun 11 03:17:12 2023 GMT"
+  },
+  {
+    "title": "Philippine Statistics Authority",
+    "host": "psa.gov.ph",
+    "status": "VALID",
+    "expiry": "Aug 30 03:34:30 2023 GMT"
+  },
+  {
+    "title": "Bureau of Immigration",
+    "host": "immigration.gov.ph",
+    "status": "VALID",
+    "expiry": "Jul 20 12:40:33 2023 GMT"
+  },
+  {
+    "title": "Department of Migrant Workers",
+    "host": "dmw.gov.ph",
+    "status": "VALID",
+    "expiry": "May 29 12:16:09 2023 GMT"
   }
 ]
