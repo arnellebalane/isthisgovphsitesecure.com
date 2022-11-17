@@ -198,8 +198,7 @@
   {
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
-    "status": "VALID",
-    "expiry": "Dec 16 23:59:59 2022 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Philippine National Police",
@@ -216,8 +215,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Mar 28 07:36:07 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
