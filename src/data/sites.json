@@ -38,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jan 21 05:16:08 2023 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -251,6 +252,7 @@
   {
     "title": "Department of Migrant Workers",
     "host": "dmw.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "May 29 12:16:09 2023 GMT"
   }
 ]
