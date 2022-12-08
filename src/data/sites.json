@@ -20,8 +20,7 @@
   {
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
-    "status": "VALID",
-    "expiry": "Feb  4 03:10:42 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Budget and Management",
