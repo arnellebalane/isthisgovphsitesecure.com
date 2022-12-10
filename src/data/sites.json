@@ -43,7 +43,8 @@
   {
     "title": "Department of Environment and Natural Resources",
     "host": "denr.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Sep 13 23:59:59 2023 GMT"
   },
   {
     "title": "Department of Finance",
@@ -185,7 +186,7 @@
     "title": "Presidential Legislative Liaison Office",
     "host": "pllo.gov.ph",
     "status": "VALID",
-    "expiry": "Jan  7 21:22:52 2023 GMT"
+    "expiry": "Mar  9 22:22:42 2023 GMT"
   },
   {
     "title": "Presidential Management Staff",
