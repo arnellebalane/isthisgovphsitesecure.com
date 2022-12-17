@@ -38,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jan 21 05:16:08 2023 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -90,7 +91,8 @@
   {
     "title": "Department of Public Works and Highways",
     "host": "www.dpwh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Nov  7 07:18:31 2023 GMT"
   },
   {
     "title": "Department of Science and Technology",
@@ -173,8 +175,7 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "VALID",
-    "expiry": "Mar  1 02:47:02 2023 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Presidential Communications Operations Office",
@@ -197,7 +198,7 @@
   {
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
-    "status": "VALID",
+    "status": "EXPIRED",
     "expiry": "Dec 16 23:59:59 2022 GMT"
   },
   {
@@ -221,7 +222,8 @@
   {
     "title": "Pag-IBIG Fund",
     "host": "www.pagibigfund.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jan 13 01:21:04 2024 GMT"
   },
   {
     "title": "Climate Change Commission",
