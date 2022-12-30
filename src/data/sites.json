@@ -44,8 +44,7 @@
   {
     "title": "Department of Environment and Natural Resources",
     "host": "denr.gov.ph",
-    "status": "VALID",
-    "expiry": "Sep 13 23:59:59 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Finance",
@@ -240,8 +239,7 @@
   {
     "title": "Philippine Statistics Authority",
     "host": "psa.gov.ph",
-    "status": "VALID",
-    "expiry": "Aug 30 03:34:30 2023 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Bureau of Immigration",
