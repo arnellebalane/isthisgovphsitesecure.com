@@ -72,8 +72,7 @@
   {
     "title": "Department of Justice",
     "host": "www.doj.gov.ph",
-    "status": "VALID",
-    "expiry": "May 22 23:59:59 2023 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Labor and Employment",
@@ -84,8 +83,7 @@
   {
     "title": "Department of National Defense",
     "host": "www.dnd.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 12 23:59:59 2023 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Public Works and Highways",
@@ -216,7 +214,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Mar 28 07:36:07 2023 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
@@ -250,7 +249,6 @@
   {
     "title": "Department of Migrant Workers",
     "host": "dmw.gov.ph",
-    "status": "VALID",
-    "expiry": "May 29 12:16:09 2023 GMT"
+    "status": "INSECURE"
   }
 ]
