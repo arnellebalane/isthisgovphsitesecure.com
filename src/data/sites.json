@@ -38,13 +38,13 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jan 21 05:16:08 2023 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
     "host": "denr.gov.ph",
-    "status": "VALID",
-    "expiry": "Sep 13 23:59:59 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Finance",
@@ -83,7 +83,8 @@
   {
     "title": "Department of National Defense",
     "host": "www.dnd.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Apr 12 23:59:59 2023 GMT"
   },
   {
     "title": "Department of Public Works and Highways",
@@ -94,8 +95,7 @@
   {
     "title": "Department of Science and Technology",
     "host": "www.dost.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 21 02:17:21 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Social Welfare and Development",
@@ -249,6 +249,7 @@
   {
     "title": "Department of Migrant Workers",
     "host": "dmw.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "May 29 12:16:09 2023 GMT"
   }
 ]
