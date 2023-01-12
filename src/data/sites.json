@@ -38,7 +38,7 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -72,7 +72,8 @@
   {
     "title": "Department of Justice",
     "host": "www.doj.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "May 22 23:59:59 2023 GMT"
   },
   {
     "title": "Department of Labor and Employment",
