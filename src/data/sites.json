@@ -26,7 +26,7 @@
   {
     "title": "Department of Budget and Management",
     "host": "www.dbm.gov.ph",
-    "status": "VALID",
+    "status": "EXPIRED",
     "expiry": "Feb 10 16:09:11 2023 GMT"
   },
   {
@@ -168,12 +168,14 @@
   {
     "title": "National Security Council",
     "host": "nsc.gov.ph",
-    "status": "INVALID"
+    "status": "VALID",
+    "expiry": "Jul 21 08:15:47 2023 GMT"
   },
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Mar  1 02:47:02 2023 GMT"
   },
   {
     "title": "Presidential Communications Operations Office",
