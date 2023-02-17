@@ -96,8 +96,7 @@
   {
     "title": "Department of Science and Technology",
     "host": "www.dost.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 21 02:17:21 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Social Welfare and Development",
