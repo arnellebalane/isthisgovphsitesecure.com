@@ -210,8 +210,7 @@
   {
     "title": "Social Security System",
     "host": "www.sss.gov.ph",
-    "status": "VALID",
-    "expiry": "May  2 03:46:07 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "PhilHealth",
