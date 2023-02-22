@@ -38,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Apr 21 12:55:26 2023 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -210,7 +211,8 @@
   {
     "title": "Social Security System",
     "host": "www.sss.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "May  2 03:46:07 2023 GMT"
   },
   {
     "title": "PhilHealth",
