@@ -38,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Apr 21 12:55:26 2023 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -168,13 +169,14 @@
   {
     "title": "National Security Council",
     "host": "nsc.gov.ph",
-    "status": "INVALID"
+    "status": "VALID",
+    "expiry": "Jul 21 08:15:47 2023 GMT"
   },
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
     "status": "VALID",
-    "expiry": "Mar  1 02:47:02 2023 GMT"
+    "expiry": "Feb 29 03:47:02 2024 GMT"
   },
   {
     "title": "Presidential Communications Operations Office",
