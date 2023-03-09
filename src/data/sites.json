@@ -14,7 +14,7 @@
   {
     "title": "Department of Agrarian Reform",
     "host": "www.dar.gov.ph",
-    "status": "VALID",
+    "status": "EXPIRED",
     "expiry": "Mar  8 12:17:36 2023 GMT"
   },
   {
@@ -168,7 +168,8 @@
   {
     "title": "National Security Council",
     "host": "nsc.gov.ph",
-    "status": "INVALID"
+    "status": "VALID",
+    "expiry": "Jul 21 08:15:47 2023 GMT"
   },
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
