@@ -38,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Apr 21 12:55:26 2023 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -221,8 +222,7 @@
   {
     "title": "Pag-IBIG Fund",
     "host": "www.pagibigfund.gov.ph",
-    "status": "VALID",
-    "expiry": "Jan 13 01:21:04 2024 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Climate Change Commission",
