@@ -26,7 +26,8 @@
   {
     "title": "Department of Budget and Management",
     "host": "www.dbm.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Feb 11 02:19:50 2024 GMT"
   },
   {
     "title": "Department of Education",
@@ -163,7 +164,7 @@
     "title": "National Economic and Development Authority",
     "host": "www.neda.gov.ph",
     "status": "VALID",
-    "expiry": "Apr 16 01:16:07 2023 GMT"
+    "expiry": "Apr 11 00:29:34 2024 GMT"
   },
   {
     "title": "National Security Council",
@@ -174,7 +175,8 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Feb 29 03:47:02 2024 GMT"
   },
   {
     "title": "Presidential Communications Operations Office",
@@ -186,7 +188,7 @@
     "title": "Presidential Legislative Liaison Office",
     "host": "pllo.gov.ph",
     "status": "VALID",
-    "expiry": "May  9 22:20:06 2023 GMT"
+    "expiry": "Jul 10 05:03:29 2023 GMT"
   },
   {
     "title": "Presidential Management Staff",
