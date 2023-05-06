@@ -21,12 +21,13 @@
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
     "status": "VALID",
-    "expiry": "Jun  4 03:03:45 2023 GMT"
+    "expiry": "Aug  3 03:04:24 2023 GMT"
   },
   {
     "title": "Department of Budget and Management",
     "host": "www.dbm.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Feb 11 02:19:50 2024 GMT"
   },
   {
     "title": "Department of Education",
@@ -37,7 +38,7 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Environment and Natural Resources",
