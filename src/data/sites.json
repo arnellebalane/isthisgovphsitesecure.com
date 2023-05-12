@@ -14,7 +14,8 @@
   {
     "title": "Department of Agrarian Reform",
     "host": "www.dar.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Mar  8 11:12:31 2024 GMT"
   },
   {
     "title": "Department of Agriculture",
@@ -61,8 +62,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 18 00:29:41 2023 GMT"
+    "status": "INVALID"
   },
   {
     "title": "Department of the Interior and Local Government",
