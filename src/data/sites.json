@@ -38,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jul 18 22:42:51 2023 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -173,8 +174,7 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "VALID",
-    "expiry": "Feb 29 03:47:02 2024 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Presidential Communications Operations Office",
@@ -233,7 +233,7 @@
     "title": "Department of Information and Communications Technology",
     "host": "dict.gov.ph",
     "status": "VALID",
-    "expiry": "Jun 11 03:17:12 2023 GMT"
+    "expiry": "Jun 10 16:45:39 2024 GMT"
   },
   {
     "title": "Philippine Statistics Authority",
