@@ -38,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jul 18 22:42:51 2023 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -132,7 +133,7 @@
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
     "status": "VALID",
-    "expiry": "Jun 24 05:11:59 2023 GMT"
+    "expiry": "Aug 24 02:19:30 2023 GMT"
   },
   {
     "title": "Metropolitan Manila Development Authority",
@@ -173,7 +174,8 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Feb 29 03:47:02 2024 GMT"
   },
   {
     "title": "Presidential Communications Operations Office",
