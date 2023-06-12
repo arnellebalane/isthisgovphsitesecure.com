@@ -133,7 +133,8 @@
   {
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Aug 24 02:19:30 2023 GMT"
   },
   {
     "title": "Metropolitan Manila Development Authority",
@@ -187,7 +188,7 @@
     "title": "Presidential Legislative Liaison Office",
     "host": "pllo.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 10 05:03:29 2023 GMT"
+    "expiry": "Sep  9 21:21:09 2023 GMT"
   },
   {
     "title": "Presidential Management Staff",
