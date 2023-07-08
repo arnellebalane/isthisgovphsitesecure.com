@@ -38,8 +38,7 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 21 06:56:29 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -63,7 +62,7 @@
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 18 00:29:41 2023 GMT"
+    "expiry": "Jul  7 07:27:50 2024 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -240,8 +239,7 @@
   {
     "title": "Philippine Statistics Authority",
     "host": "psa.gov.ph",
-    "status": "VALID",
-    "expiry": "Aug 30 03:34:30 2023 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Bureau of Immigration",
