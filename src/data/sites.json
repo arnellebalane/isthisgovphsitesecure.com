@@ -68,8 +68,7 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun  8 23:59:59 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Justice",
@@ -159,7 +158,7 @@
     "title": "National Commission on Muslim FIlipinos",
     "host": "ncmf.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 20 11:47:16 2023 GMT"
+    "expiry": "Jul 20 11:47:16 2024 GMT"
   },
   {
     "title": "National Economic and Development Authority",
