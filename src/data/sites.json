@@ -38,8 +38,7 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 21 06:56:29 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -152,7 +151,7 @@
     "title": "National Anti-Poverty Commission",
     "host": "napc.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 20 11:46:44 2023 GMT"
+    "expiry": "Jul 20 11:46:44 2024 GMT"
   },
   {
     "title": "National Commission on Muslim FIlipinos",
@@ -206,7 +205,7 @@
     "title": "Philippine National Police",
     "host": "pnp.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 20 14:08:41 2023 GMT"
+    "expiry": "Jul 20 14:08:41 2024 GMT"
   },
   {
     "title": "Social Security System",
@@ -247,7 +246,7 @@
     "title": "Bureau of Immigration",
     "host": "immigration.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 20 12:40:33 2023 GMT"
+    "expiry": "Jul 20 12:40:33 2024 GMT"
   },
   {
     "title": "Department of Migrant Workers",
