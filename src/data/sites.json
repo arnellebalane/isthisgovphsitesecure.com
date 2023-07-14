@@ -227,8 +227,7 @@
   },
   {
     "title": "Climate Change Commission",
-    "host": "https://www.climate.gov.ph/",
-    "status": "UNREACHABLE"
+    "host": "www.climate.gov.ph/"
   },
   {
     "title": "Department of Information and Communications Technology",
@@ -253,5 +252,13 @@
     "host": "dmw.gov.ph",
     "status": "VALID",
     "expiry": "Jul  1 08:36:02 2024 GMT"
+  },
+  {
+    "title": "National Mapping and Resource Information Authority",
+    "host": "www.namria.gov.ph"
+  },
+  {
+    "title": "Bureau of Customs",
+    "host": "customs.gov.ph"
   }
 ]
