@@ -121,7 +121,7 @@
     "title": "Commission on Higher Education",
     "host": "ched.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 20 13:45:05 2023 GMT"
+    "expiry": "Jul 20 13:45:05 2024 GMT"
   },
   {
     "title": "Commission on Filipino Overseas",
@@ -227,7 +227,8 @@
   },
   {
     "title": "Climate Change Commission",
-    "host": "www.climate.gov.ph/"
+    "host": "www.climate.gov.ph/",
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Information and Communications Technology",
@@ -255,10 +256,14 @@
   },
   {
     "title": "National Mapping and Resource Information Authority",
-    "host": "www.namria.gov.ph"
+    "host": "www.namria.gov.ph",
+    "status": "VALID",
+    "expiry": "Jun 14 23:59:59 2024 GMT"
   },
   {
     "title": "Bureau of Customs",
-    "host": "customs.gov.ph"
+    "host": "customs.gov.ph",
+    "status": "VALID",
+    "expiry": "Sep  9 23:59:59 2023 GMT"
   }
 ]
