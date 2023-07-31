@@ -67,8 +67,7 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun  8 23:59:59 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Justice",
@@ -175,8 +174,7 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "VALID",
-    "expiry": "Feb 29 03:47:02 2024 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Presidential Communications Operations Office",
