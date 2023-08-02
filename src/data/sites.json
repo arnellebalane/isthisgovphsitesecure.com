@@ -38,8 +38,7 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 21 06:56:29 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -57,7 +56,7 @@
     "title": "Department of Foreign Affairs",
     "host": "www.dfa.gov.ph",
     "status": "VALID",
-    "expiry": "Aug  7 01:56:02 2023 GMT"
+    "expiry": "Sep  1 05:16:10 2024 GMT"
   },
   {
     "title": "Department of Health",
@@ -181,8 +180,7 @@
   {
     "title": "Presidential Communications Operations Office",
     "host": "www.pcoo.gov.ph",
-    "status": "EXPIRED",
-    "expiry": "Apr  1 00:39:24 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Presidential Legislative Liaison Office",
