@@ -180,7 +180,8 @@
   {
     "title": "Presidential Communications Operations Office",
     "host": "www.pcoo.gov.ph",
-    "status": "INSECURE"
+    "status": "EXPIRED",
+    "expiry": "Apr  1 00:39:24 2023 GMT"
   },
   {
     "title": "Presidential Legislative Liaison Office",
