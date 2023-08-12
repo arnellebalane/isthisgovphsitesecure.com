@@ -38,8 +38,7 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 21 06:56:29 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -188,7 +187,7 @@
     "title": "Presidential Legislative Liaison Office",
     "host": "pllo.gov.ph",
     "status": "VALID",
-    "expiry": "Sep  9 21:21:09 2023 GMT"
+    "expiry": "Nov  9 21:19:53 2023 GMT"
   },
   {
     "title": "Presidential Management Staff",
