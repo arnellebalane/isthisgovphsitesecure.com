@@ -38,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jul 21 06:56:29 2024 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -109,7 +110,7 @@
     "title": "Department of Tourism",
     "host": "beta.tourism.gov.ph",
     "status": "VALID",
-    "expiry": "Sep 29 16:13:16 2023 GMT"
+    "expiry": "Nov 28 16:20:06 2023 GMT"
   },
   {
     "title": "Department of Trade and Industry",
@@ -192,7 +193,8 @@
   {
     "title": "Presidential Management Staff",
     "host": "www.pms.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "EXPIRED",
+    "expiry": "Jul 21 03:21:50 2023 GMT"
   },
   {
     "title": "Technical Education and Skills Development Authority",
