@@ -32,14 +32,13 @@
   {
     "title": "Department of Education",
     "host": "www.deped.gov.ph",
-    "status": "VALID",
+    "status": "EXPIRED",
     "expiry": "Aug 31 11:24:53 2023 GMT"
   },
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 21 06:56:29 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Environment and Natural Resources",
