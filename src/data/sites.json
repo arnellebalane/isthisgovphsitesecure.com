@@ -32,8 +32,8 @@
   {
     "title": "Department of Education",
     "host": "www.deped.gov.ph",
-    "status": "EXPIRED",
-    "expiry": "Aug 31 11:24:53 2023 GMT"
+    "status": "VALID",
+    "expiry": "Aug 31 07:43:59 2024 GMT"
   },
   {
     "title": "Department of Energy",
@@ -67,7 +67,8 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jun  8 23:59:59 2024 GMT"
   },
   {
     "title": "Department of Justice",
