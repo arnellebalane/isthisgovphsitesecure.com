@@ -67,8 +67,7 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun  8 23:59:59 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Justice",
@@ -211,8 +210,7 @@
   {
     "title": "Social Security System",
     "host": "www.sss.gov.ph",
-    "status": "VALID",
-    "expiry": "May 15 03:31:03 2024 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "PhilHealth",
