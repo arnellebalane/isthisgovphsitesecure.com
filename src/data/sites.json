@@ -132,8 +132,7 @@
   {
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun 30 06:18:48 2024 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Metropolitan Manila Development Authority",
@@ -210,7 +209,8 @@
   {
     "title": "Social Security System",
     "host": "www.sss.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "May 15 03:31:03 2024 GMT"
   },
   {
     "title": "PhilHealth",
