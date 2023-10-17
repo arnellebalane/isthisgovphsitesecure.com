@@ -73,7 +73,7 @@
     "title": "Department of Justice",
     "host": "www.doj.gov.ph",
     "status": "VALID",
-    "expiry": "Nov 16 07:16:40 2023 GMT"
+    "expiry": "Jan 14 08:34:27 2024 GMT"
   },
   {
     "title": "Department of Labor and Employment",
@@ -174,8 +174,7 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "VALID",
-    "expiry": "Feb 29 03:47:02 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Presidential Communications Operations Office",
