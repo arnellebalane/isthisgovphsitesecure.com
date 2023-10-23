@@ -67,8 +67,7 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun  8 23:59:59 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Justice",
@@ -133,7 +132,8 @@
   {
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Jun 30 06:18:48 2024 GMT"
   },
   {
     "title": "Metropolitan Manila Development Authority",
