@@ -61,8 +61,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul  7 07:27:50 2024 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -216,8 +215,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 29 02:51:01 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
@@ -239,7 +237,8 @@
   {
     "title": "Philippine Statistics Authority",
     "host": "psa.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Sep 23 23:59:59 2024 GMT"
   },
   {
     "title": "Bureau of Immigration",
