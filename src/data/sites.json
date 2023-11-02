@@ -21,7 +21,7 @@
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
     "status": "VALID",
-    "expiry": "Dec  1 03:07:57 2023 GMT"
+    "expiry": "Jan 30 03:04:20 2024 GMT"
   },
   {
     "title": "Department of Budget and Management",
@@ -38,8 +38,7 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "VALID",
-    "expiry": "Oct 21 23:59:59 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -217,7 +216,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
