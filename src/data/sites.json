@@ -20,8 +20,7 @@
   {
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
-    "status": "VALID",
-    "expiry": "Jan 30 03:04:20 2024 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Budget and Management",
@@ -67,7 +66,8 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jun  8 23:59:59 2024 GMT"
   },
   {
     "title": "Department of Justice",
@@ -216,7 +216,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "INSECURE"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Pag-IBIG Fund",
@@ -238,8 +238,7 @@
   {
     "title": "Philippine Statistics Authority",
     "host": "psa.gov.ph",
-    "status": "VALID",
-    "expiry": "Sep 23 23:59:59 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Bureau of Immigration",
