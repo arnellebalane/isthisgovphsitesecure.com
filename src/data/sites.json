@@ -20,7 +20,8 @@
   {
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jan 30 03:04:20 2024 GMT"
   },
   {
     "title": "Department of Budget and Management",
@@ -37,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Oct 21 23:59:59 2024 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -66,8 +68,7 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun  8 23:59:59 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Justice",
@@ -180,7 +181,8 @@
   {
     "title": "Presidential Communications Operations Office",
     "host": "www.pcoo.gov.ph",
-    "status": "INSECURE"
+    "status": "EXPIRED",
+    "expiry": "Apr  1 00:39:24 2023 GMT"
   },
   {
     "title": "Presidential Legislative Liaison Office",
@@ -238,7 +240,8 @@
   {
     "title": "Philippine Statistics Authority",
     "host": "psa.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Sep 23 23:59:59 2024 GMT"
   },
   {
     "title": "Bureau of Immigration",
@@ -255,7 +258,8 @@
   {
     "title": "National Mapping and Resource Information Authority",
     "host": "www.namria.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Jun 14 23:59:59 2024 GMT"
   },
   {
     "title": "Bureau of Customs",
