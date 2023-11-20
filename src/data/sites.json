@@ -84,7 +84,8 @@
   {
     "title": "Department of National Defense",
     "host": "www.dnd.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "May 11 23:59:59 2024 GMT"
   },
   {
     "title": "Department of Public Works and Highways",
