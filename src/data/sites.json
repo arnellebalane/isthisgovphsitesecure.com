@@ -132,8 +132,7 @@
   {
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun 30 06:18:48 2024 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Metropolitan Manila Development Authority",
@@ -198,8 +197,7 @@
   {
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
-    "status": "VALID",
-    "expiry": "Dec 14 23:59:59 2023 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Philippine National Police",
@@ -216,7 +214,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Apr 29 02:51:01 2024 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
@@ -244,7 +243,8 @@
   {
     "title": "Bureau of Immigration",
     "host": "immigration.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Nov  3 13:53:29 2024 GMT"
   },
   {
     "title": "Department of Migrant Workers",
