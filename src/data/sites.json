@@ -67,7 +67,8 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jun  8 23:59:59 2024 GMT"
   },
   {
     "title": "Department of Justice",
@@ -197,7 +198,8 @@
   {
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Dec 14 23:59:59 2023 GMT"
   },
   {
     "title": "Philippine National Police",
