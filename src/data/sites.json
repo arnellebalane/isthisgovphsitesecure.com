@@ -61,14 +61,12 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Oct 23 23:59:59 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun  8 23:59:59 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Justice",
@@ -133,7 +131,8 @@
   {
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Jun 30 06:18:48 2024 GMT"
   },
   {
     "title": "Metropolitan Manila Development Authority",
@@ -174,8 +173,7 @@
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
-    "status": "VALID",
-    "expiry": "Feb 29 03:47:02 2024 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Presidential Communications Operations Office",
