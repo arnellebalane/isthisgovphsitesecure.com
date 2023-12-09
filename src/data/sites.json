@@ -3,7 +3,7 @@
     "title": "Office of the Vice President",
     "host": "www.ovp.gov.ph",
     "status": "VALID",
-    "expiry": "Jan  8 00:31:49 2024 GMT"
+    "expiry": "Mar  7 01:05:57 2024 GMT"
   },
   {
     "title": "Housing and Urban Development Coordinating Council",
@@ -67,7 +67,8 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jun  8 23:59:59 2024 GMT"
   },
   {
     "title": "Department of Justice",
@@ -168,8 +169,7 @@
   {
     "title": "National Security Council",
     "host": "nsc.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 21 08:15:47 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
@@ -216,8 +216,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 29 02:51:01 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
