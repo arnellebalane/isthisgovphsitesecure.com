@@ -38,8 +38,7 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 21 06:56:29 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -74,7 +73,7 @@
     "title": "Department of Justice",
     "host": "www.doj.gov.ph",
     "status": "VALID",
-    "expiry": "Jan 14 08:34:27 2024 GMT"
+    "expiry": "Mar 13 09:24:56 2024 GMT"
   },
   {
     "title": "Department of Labor and Employment",
@@ -199,7 +198,7 @@
   {
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
-    "status": "VALID",
+    "status": "EXPIRED",
     "expiry": "Dec 14 23:59:59 2023 GMT"
   },
   {
@@ -217,7 +216,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Apr 29 02:51:01 2024 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
