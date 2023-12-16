@@ -168,8 +168,7 @@
   {
     "title": "National Security Council",
     "host": "nsc.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 21 08:15:47 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
@@ -198,8 +197,8 @@
   {
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
-    "status": "EXPIRED",
-    "expiry": "Dec 14 23:59:59 2023 GMT"
+    "status": "VALID",
+    "expiry": "Dec 11 23:59:59 2024 GMT"
   },
   {
     "title": "Philippine National Police",
