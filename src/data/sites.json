@@ -61,7 +61,8 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Oct 23 23:59:59 2024 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -215,8 +216,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 29 02:51:01 2024 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Pag-IBIG Fund",
