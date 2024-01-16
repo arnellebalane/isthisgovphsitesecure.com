@@ -38,8 +38,7 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 21 06:56:29 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -63,7 +62,7 @@
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
     "status": "VALID",
-    "expiry": "Oct 23 23:59:59 2024 GMT"
+    "expiry": "Jul  7 07:27:50 2024 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
