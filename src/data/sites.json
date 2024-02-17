@@ -43,8 +43,7 @@
   {
     "title": "Department of Environment and Natural Resources",
     "host": "denr.gov.ph",
-    "status": "VALID",
-    "expiry": "Oct 12 23:59:59 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Finance",
