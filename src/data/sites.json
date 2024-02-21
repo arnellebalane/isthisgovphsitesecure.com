@@ -38,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jul 21 06:56:29 2024 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -250,7 +251,8 @@
   {
     "title": "Department of Migrant Workers",
     "host": "dmw.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jul  1 08:36:02 2024 GMT"
   },
   {
     "title": "National Mapping and Resource Information Authority",
