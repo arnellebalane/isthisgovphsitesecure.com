@@ -21,7 +21,7 @@
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
     "status": "VALID",
-    "expiry": "Mar 30 03:02:07 2024 GMT"
+    "expiry": "May 23 11:48:13 2024 GMT"
   },
   {
     "title": "Department of Budget and Management",
@@ -38,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jul 21 06:56:29 2024 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -67,8 +68,7 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun  8 23:59:59 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Justice",
@@ -185,8 +185,7 @@
   {
     "title": "Presidential Legislative Liaison Office",
     "host": "pllo.gov.ph",
-    "status": "VALID",
-    "expiry": "May 10 22:21:45 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Presidential Management Staff",
@@ -250,7 +249,8 @@
   {
     "title": "Department of Migrant Workers",
     "host": "dmw.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jul  1 08:36:02 2024 GMT"
   },
   {
     "title": "National Mapping and Resource Information Authority",
