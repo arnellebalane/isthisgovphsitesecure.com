@@ -21,7 +21,7 @@
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
     "status": "VALID",
-    "expiry": "May 23 11:48:13 2024 GMT"
+    "expiry": "May 24 10:59:21 2024 GMT"
   },
   {
     "title": "Department of Budget and Management",
@@ -68,7 +68,8 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jun  8 23:59:59 2024 GMT"
   },
   {
     "title": "Department of Justice",
@@ -185,7 +186,8 @@
   {
     "title": "Presidential Legislative Liaison Office",
     "host": "pllo.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "May 10 22:21:45 2024 GMT"
   },
   {
     "title": "Presidential Management Staff",
