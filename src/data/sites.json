@@ -256,8 +256,7 @@
   {
     "title": "National Mapping and Resource Information Authority",
     "host": "www.namria.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun 14 23:59:59 2024 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Bureau of Customs",
