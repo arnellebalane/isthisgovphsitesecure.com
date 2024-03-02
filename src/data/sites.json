@@ -21,7 +21,7 @@
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
     "status": "VALID",
-    "expiry": "May 28 05:22:09 2024 GMT"
+    "expiry": "Sep 15 23:59:59 2024 GMT"
   },
   {
     "title": "Department of Budget and Management",
@@ -38,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jul 21 06:56:29 2024 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -256,7 +257,8 @@
   {
     "title": "National Mapping and Resource Information Authority",
     "host": "www.namria.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Jun 14 23:59:59 2024 GMT"
   },
   {
     "title": "Bureau of Customs",
