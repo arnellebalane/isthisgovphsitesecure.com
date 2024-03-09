@@ -14,7 +14,7 @@
   {
     "title": "Department of Agrarian Reform",
     "host": "www.dar.gov.ph",
-    "status": "VALID",
+    "status": "EXPIRED",
     "expiry": "Mar  8 11:12:31 2024 GMT"
   },
   {
@@ -215,8 +215,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 29 02:51:01 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
