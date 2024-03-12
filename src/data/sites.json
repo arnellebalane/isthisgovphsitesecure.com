@@ -79,7 +79,7 @@
     "title": "Department of Labor and Employment",
     "host": "www.dole.gov.ph",
     "status": "VALID",
-    "expiry": "Apr 10 23:59:59 2024 GMT"
+    "expiry": "Jun  9 00:52:55 2024 GMT"
   },
   {
     "title": "Department of National Defense",
@@ -138,7 +138,8 @@
   {
     "title": "Metropolitan Manila Development Authority",
     "host": "www.mmda.gov.ph",
-    "status": "INSECURE"
+    "status": "EXPIRED",
+    "expiry": "Jul 20 11:46:06 2023 GMT"
   },
   {
     "title": "Mindanao Development Authority",
@@ -214,8 +215,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 29 02:51:01 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
