@@ -38,8 +38,7 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 21 06:56:29 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -169,7 +168,8 @@
   {
     "title": "National Security Council",
     "host": "nsc.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jul 21 08:15:47 2024 GMT"
   },
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
@@ -238,8 +238,7 @@
   {
     "title": "Philippine Statistics Authority",
     "host": "psa.gov.ph",
-    "status": "VALID",
-    "expiry": "Sep 23 23:59:59 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Bureau of Immigration",
