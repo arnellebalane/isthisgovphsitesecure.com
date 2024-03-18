@@ -238,7 +238,8 @@
   {
     "title": "Philippine Statistics Authority",
     "host": "psa.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Sep 23 23:59:59 2024 GMT"
   },
   {
     "title": "Bureau of Immigration",
