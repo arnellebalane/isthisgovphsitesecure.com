@@ -102,8 +102,7 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "VALID",
-    "expiry": "May 30 23:59:59 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Tourism",
@@ -196,8 +195,7 @@
   {
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
-    "status": "VALID",
-    "expiry": "Dec 11 23:59:59 2024 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Philippine National Police",
