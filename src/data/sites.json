@@ -67,7 +67,7 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Justice",
@@ -102,8 +102,7 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "VALID",
-    "expiry": "May 30 23:59:59 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Tourism",
@@ -132,7 +131,8 @@
   {
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Jun 30 06:18:48 2024 GMT"
   },
   {
     "title": "Metropolitan Manila Development Authority",
@@ -237,8 +237,7 @@
   {
     "title": "Philippine Statistics Authority",
     "host": "psa.gov.ph",
-    "status": "VALID",
-    "expiry": "Sep 23 23:59:59 2024 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Bureau of Immigration",
