@@ -67,7 +67,7 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Justice",
@@ -163,7 +163,7 @@
     "title": "National Economic and Development Authority",
     "host": "www.neda.gov.ph",
     "status": "VALID",
-    "expiry": "Apr 11 03:36:14 2024 GMT"
+    "expiry": "Apr 10 07:19:25 2025 GMT"
   },
   {
     "title": "National Security Council",
