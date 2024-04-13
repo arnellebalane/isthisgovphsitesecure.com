@@ -38,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jul 21 06:56:29 2024 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -186,7 +187,7 @@
     "title": "Presidential Legislative Liaison Office",
     "host": "pllo.gov.ph",
     "status": "VALID",
-    "expiry": "May 10 22:21:45 2024 GMT"
+    "expiry": "Jul 11 21:03:53 2024 GMT"
   },
   {
     "title": "Presidential Management Staff",
@@ -215,8 +216,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 29 02:51:01 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
@@ -238,14 +238,13 @@
   {
     "title": "Philippine Statistics Authority",
     "host": "psa.gov.ph",
-    "status": "VALID",
-    "expiry": "Sep 23 23:59:59 2024 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Bureau of Immigration",
     "host": "immigration.gov.ph",
     "status": "VALID",
-    "expiry": "Nov  3 13:53:29 2024 GMT"
+    "expiry": "Nov  4 02:07:47 2024 GMT"
   },
   {
     "title": "Department of Migrant Workers",
