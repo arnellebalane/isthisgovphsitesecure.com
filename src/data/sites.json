@@ -215,8 +215,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 29 02:51:01 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
@@ -244,7 +243,8 @@
   {
     "title": "Bureau of Immigration",
     "host": "immigration.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Nov  4 02:07:47 2024 GMT"
   },
   {
     "title": "Department of Migrant Workers",
