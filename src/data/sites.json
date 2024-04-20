@@ -79,7 +79,7 @@
     "title": "Department of Labor and Employment",
     "host": "www.dole.gov.ph",
     "status": "VALID",
-    "expiry": "Jun  9 00:52:55 2024 GMT"
+    "expiry": "Jul 18 05:07:46 2024 GMT"
   },
   {
     "title": "Department of National Defense",
@@ -244,7 +244,8 @@
   {
     "title": "Bureau of Immigration",
     "host": "immigration.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Nov  4 02:07:47 2024 GMT"
   },
   {
     "title": "Department of Migrant Workers",
