@@ -67,7 +67,7 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Justice",
@@ -232,7 +232,7 @@
     "title": "Department of Information and Communications Technology",
     "host": "dict.gov.ph",
     "status": "VALID",
-    "expiry": "Jun 10 16:45:39 2024 GMT"
+    "expiry": "Jun 11 03:17:12 2025 GMT"
   },
   {
     "title": "Philippine Statistics Authority",
