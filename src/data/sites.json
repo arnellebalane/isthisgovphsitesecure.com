@@ -15,7 +15,7 @@
     "title": "Department of Agrarian Reform",
     "host": "www.dar.gov.ph",
     "status": "VALID",
-    "expiry": "Jun  7 23:59:59 2024 GMT"
+    "expiry": "May 13 22:40:52 2025 GMT"
   },
   {
     "title": "Department of Agriculture",
@@ -102,8 +102,7 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 30 06:25:55 2025 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Tourism",
