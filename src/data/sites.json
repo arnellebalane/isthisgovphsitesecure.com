@@ -38,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jul 21 06:56:29 2024 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -215,7 +216,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "May 19 08:56:09 2025 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
@@ -256,7 +258,7 @@
     "title": "National Mapping and Resource Information Authority",
     "host": "www.namria.gov.ph",
     "status": "VALID",
-    "expiry": "Jun 14 23:59:59 2024 GMT"
+    "expiry": "Jun 18 23:59:59 2025 GMT"
   },
   {
     "title": "Bureau of Customs",
