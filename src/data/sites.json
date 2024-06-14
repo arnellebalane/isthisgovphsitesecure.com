@@ -102,8 +102,7 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 30 06:25:55 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Tourism",
@@ -215,8 +214,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "May 19 08:56:09 2025 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Pag-IBIG Fund",
@@ -244,7 +242,8 @@
   {
     "title": "Bureau of Immigration",
     "host": "immigration.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Nov  4 02:07:47 2024 GMT"
   },
   {
     "title": "Department of Migrant Workers",
