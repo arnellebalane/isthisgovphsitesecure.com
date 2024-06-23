@@ -66,7 +66,7 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "INSECURE"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Justice",
@@ -255,7 +255,8 @@
   {
     "title": "National Mapping and Resource Information Authority",
     "host": "www.namria.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Jun 18 23:59:59 2025 GMT"
   },
   {
     "title": "Bureau of Customs",
