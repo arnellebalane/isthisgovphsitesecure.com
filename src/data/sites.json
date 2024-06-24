@@ -20,7 +20,8 @@
   {
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Sep 15 23:59:59 2024 GMT"
   },
   {
     "title": "Department of Budget and Management",
@@ -66,7 +67,7 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Justice",
@@ -101,8 +102,7 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 30 06:25:55 2025 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Tourism",
