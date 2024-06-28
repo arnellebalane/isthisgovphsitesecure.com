@@ -102,8 +102,7 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 30 06:25:55 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Tourism",
@@ -133,7 +132,7 @@
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
     "status": "VALID",
-    "expiry": "Aug 21 20:02:59 2024 GMT"
+    "expiry": "Jul 29 01:06:12 2025 GMT"
   },
   {
     "title": "Metropolitan Manila Development Authority",
