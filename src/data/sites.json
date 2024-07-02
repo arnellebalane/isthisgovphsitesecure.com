@@ -9,7 +9,7 @@
     "title": "Housing and Urban Development Coordinating Council",
     "host": "hudcc.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 20 11:43:48 2024 GMT"
+    "expiry": "Jun 23 23:59:59 2025 GMT"
   },
   {
     "title": "Department of Agrarian Reform",
@@ -38,7 +38,7 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "INSECURE"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -102,7 +102,8 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Apr 30 06:25:55 2025 GMT"
   },
   {
     "title": "Department of Tourism",
@@ -120,7 +121,7 @@
     "title": "Commission on Higher Education",
     "host": "ched.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 20 13:45:05 2024 GMT"
+    "expiry": "Jun 23 23:59:59 2025 GMT"
   },
   {
     "title": "Commission on Filipino Overseas",
@@ -144,7 +145,7 @@
     "title": "Mindanao Development Authority",
     "host": "minda.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 20 11:45:55 2024 GMT"
+    "expiry": "Jun 23 23:59:59 2025 GMT"
   },
   {
     "title": "National Anti-Poverty Commission",
