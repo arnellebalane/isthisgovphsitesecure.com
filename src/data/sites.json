@@ -103,8 +103,7 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 30 06:25:55 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Tourism",
@@ -169,8 +168,7 @@
   {
     "title": "National Security Council",
     "host": "nsc.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 21 08:15:47 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
