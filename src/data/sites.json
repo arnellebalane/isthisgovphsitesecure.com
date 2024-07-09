@@ -103,7 +103,8 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Apr 30 06:25:55 2025 GMT"
   },
   {
     "title": "Department of Tourism",
@@ -138,8 +139,8 @@
   {
     "title": "Metropolitan Manila Development Authority",
     "host": "www.mmda.gov.ph",
-    "status": "EXPIRED",
-    "expiry": "Jul 20 11:46:06 2023 GMT"
+    "status": "VALID",
+    "expiry": "Jun 26 23:59:59 2025 GMT"
   },
   {
     "title": "Mindanao Development Authority",
@@ -151,13 +152,13 @@
     "title": "National Anti-Poverty Commission",
     "host": "napc.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 20 11:46:44 2024 GMT"
+    "expiry": "Jun 26 23:59:59 2025 GMT"
   },
   {
     "title": "National Commission on Muslim FIlipinos",
     "host": "ncmf.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 20 11:47:16 2024 GMT"
+    "expiry": "Jun 26 23:59:59 2025 GMT"
   },
   {
     "title": "National Economic and Development Authority",
