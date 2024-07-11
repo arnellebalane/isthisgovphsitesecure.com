@@ -98,7 +98,7 @@
     "title": "Department of Science and Technology",
     "host": "www.dost.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 21 02:17:21 2024 GMT"
+    "expiry": "Jun 26 23:59:59 2025 GMT"
   },
   {
     "title": "Department of Social Welfare and Development",
@@ -193,7 +193,7 @@
     "title": "Presidential Management Staff",
     "host": "www.pms.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 21 03:21:50 2024 GMT"
+    "expiry": "Jul  8 23:59:59 2025 GMT"
   },
   {
     "title": "Technical Education and Skills Development Authority",
@@ -239,7 +239,8 @@
   {
     "title": "Philippine Statistics Authority",
     "host": "psa.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Sep 23 23:59:59 2024 GMT"
   },
   {
     "title": "Bureau of Immigration",
