@@ -68,7 +68,7 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Justice",
@@ -103,8 +103,7 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 30 06:25:55 2025 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Tourism",
@@ -133,7 +132,8 @@
   {
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Jul 29 01:06:12 2025 GMT"
   },
   {
     "title": "Metropolitan Manila Development Authority",
@@ -215,8 +215,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "May 19 08:56:09 2025 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Pag-IBIG Fund",
