@@ -39,7 +39,7 @@
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
     "status": "VALID",
-    "expiry": "Oct 18 09:50:51 2024 GMT"
+    "expiry": "Oct 20 10:13:22 2024 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -103,7 +103,8 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Apr 30 06:25:55 2025 GMT"
   },
   {
     "title": "Department of Tourism",
