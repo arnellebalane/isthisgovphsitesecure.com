@@ -86,7 +86,7 @@
     "title": "Department of National Defense",
     "host": "www.dnd.gov.ph",
     "status": "VALID",
-    "expiry": "Aug 23 05:00:31 2024 GMT"
+    "expiry": "Oct 21 04:16:44 2024 GMT"
   },
   {
     "title": "Department of Public Works and Highways",
@@ -103,8 +103,7 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 30 06:25:55 2025 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Tourism",
@@ -198,8 +197,7 @@
   {
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
-    "status": "VALID",
-    "expiry": "Dec 11 23:59:59 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Philippine National Police",
@@ -216,8 +214,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "May 19 08:56:09 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
