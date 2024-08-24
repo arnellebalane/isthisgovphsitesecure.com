@@ -102,7 +102,7 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Tourism",
@@ -174,7 +174,7 @@
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
     "status": "VALID",
-    "expiry": "Sep 23 09:39:53 2024 GMT"
+    "expiry": "Nov 21 12:44:05 2024 GMT"
   },
   {
     "title": "Presidential Communications Operations Office",
@@ -214,8 +214,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "May 19 08:56:09 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
