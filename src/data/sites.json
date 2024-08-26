@@ -103,13 +103,14 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Apr 30 06:25:55 2025 GMT"
   },
   {
     "title": "Department of Tourism",
     "host": "beta.tourism.gov.ph",
     "status": "VALID",
-    "expiry": "Sep 24 03:37:43 2024 GMT"
+    "expiry": "Nov 23 04:14:05 2024 GMT"
   },
   {
     "title": "Department of Trade and Industry",
