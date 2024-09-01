@@ -33,7 +33,7 @@
     "title": "Department of Education",
     "host": "www.deped.gov.ph",
     "status": "VALID",
-    "expiry": "Aug 31 07:43:59 2024 GMT"
+    "expiry": "Aug 10 06:15:21 2025 GMT"
   },
   {
     "title": "Department of Energy",
@@ -215,7 +215,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "May 19 08:56:09 2025 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
