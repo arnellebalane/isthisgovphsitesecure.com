@@ -50,7 +50,7 @@
     "title": "Department of Finance",
     "host": "www.dof.gov.ph",
     "status": "VALID",
-    "expiry": "Dec  8 03:06:02 2024 GMT"
+    "expiry": "Dec  5 09:21:33 2024 GMT"
   },
   {
     "title": "Department of Foreign Affairs",
@@ -132,8 +132,7 @@
   {
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 29 01:06:12 2025 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Metropolitan Manila Development Authority",
