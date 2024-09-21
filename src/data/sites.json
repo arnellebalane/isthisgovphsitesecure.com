@@ -38,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Dec 19 09:55:16 2024 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -85,7 +86,7 @@
     "title": "Department of National Defense",
     "host": "www.dnd.gov.ph",
     "status": "VALID",
-    "expiry": "Oct 21 04:16:44 2024 GMT"
+    "expiry": "Dec 19 03:27:25 2024 GMT"
   },
   {
     "title": "Department of Public Works and Highways",
