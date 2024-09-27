@@ -38,7 +38,8 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Dec 19 09:55:16 2024 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
