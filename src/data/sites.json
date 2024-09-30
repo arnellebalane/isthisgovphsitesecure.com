@@ -38,8 +38,7 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "VALID",
-    "expiry": "Dec 19 09:55:16 2024 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -62,8 +61,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Dec 31 23:59:59 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -103,8 +101,7 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 30 06:25:55 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Tourism",
@@ -223,7 +220,7 @@
     "title": "Pag-IBIG Fund",
     "host": "www.pagibigfund.gov.ph",
     "status": "VALID",
-    "expiry": "Oct 30 06:09:48 2024 GMT"
+    "expiry": "Dec 28 06:28:23 2024 GMT"
   },
   {
     "title": "Climate Change Commission",
