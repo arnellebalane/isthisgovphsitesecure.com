@@ -61,7 +61,8 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Dec 31 23:59:59 2024 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -72,7 +73,7 @@
     "title": "Department of Justice",
     "host": "www.doj.gov.ph",
     "status": "VALID",
-    "expiry": "Nov  8 09:14:27 2024 GMT"
+    "expiry": "Jan  6 09:14:20 2025 GMT"
   },
   {
     "title": "Department of Labor and Employment",
@@ -214,7 +215,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "May 19 08:56:09 2025 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
