@@ -187,7 +187,7 @@
     "title": "Presidential Legislative Liaison Office",
     "host": "pllo.gov.ph",
     "status": "VALID",
-    "expiry": "Nov 10 21:05:44 2024 GMT"
+    "expiry": "Jan 10 21:01:08 2025 GMT"
   },
   {
     "title": "Presidential Management Staff",
@@ -239,7 +239,8 @@
   {
     "title": "Philippine Statistics Authority",
     "host": "psa.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Aug 27 23:59:59 2025 GMT"
   },
   {
     "title": "Bureau of Immigration",
