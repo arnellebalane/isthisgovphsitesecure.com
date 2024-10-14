@@ -62,8 +62,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Dec 31 23:59:59 2024 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -80,7 +79,7 @@
     "title": "Department of Labor and Employment",
     "host": "www.dole.gov.ph",
     "status": "VALID",
-    "expiry": "Nov 13 05:45:33 2024 GMT"
+    "expiry": "Jan 11 05:57:27 2025 GMT"
   },
   {
     "title": "Department of National Defense",
@@ -193,7 +192,7 @@
     "title": "Presidential Management Staff",
     "host": "www.pms.gov.ph",
     "status": "VALID",
-    "expiry": "Jul  8 23:59:59 2025 GMT"
+    "expiry": "Jun 10 23:59:59 2025 GMT"
   },
   {
     "title": "Technical Education and Skills Development Authority",
