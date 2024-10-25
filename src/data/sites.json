@@ -38,8 +38,7 @@
   {
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
-    "status": "VALID",
-    "expiry": "Oct 28 02:11:04 2025 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -62,7 +61,8 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Dec 31 23:59:59 2024 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -109,7 +109,7 @@
     "title": "Department of Tourism",
     "host": "beta.tourism.gov.ph",
     "status": "VALID",
-    "expiry": "Nov 23 04:14:05 2024 GMT"
+    "expiry": "Jan 22 03:41:14 2025 GMT"
   },
   {
     "title": "Department of Trade and Industry",
@@ -215,7 +215,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "May 19 08:56:09 2025 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
