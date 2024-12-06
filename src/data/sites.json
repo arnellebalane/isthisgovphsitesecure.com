@@ -62,7 +62,8 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Mar  4 05:36:23 2025 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -114,8 +115,8 @@
   {
     "title": "Department of Trade and Industry",
     "host": "www.dti.gov.ph",
-    "status": "VALID",
-    "expiry": "Feb 15 08:41:00 2025 GMT"
+    "status": "EXPIRED",
+    "expiry": "Feb 10 05:41:01 2024 GMT"
   },
   {
     "title": "Commission on Higher Education",
