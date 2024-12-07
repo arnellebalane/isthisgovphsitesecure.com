@@ -74,7 +74,7 @@
     "title": "Department of Justice",
     "host": "www.doj.gov.ph",
     "status": "VALID",
-    "expiry": "Jan  6 09:14:20 2025 GMT"
+    "expiry": "Mar  6 11:11:19 2025 GMT"
   },
   {
     "title": "Department of Labor and Employment",
@@ -115,8 +115,8 @@
   {
     "title": "Department of Trade and Industry",
     "host": "www.dti.gov.ph",
-    "status": "EXPIRED",
-    "expiry": "Feb 10 05:41:01 2024 GMT"
+    "status": "VALID",
+    "expiry": "Feb 15 08:41:00 2025 GMT"
   },
   {
     "title": "Commission on Higher Education",
