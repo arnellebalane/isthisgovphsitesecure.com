@@ -62,8 +62,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Mar  4 05:36:23 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -257,8 +256,7 @@
   {
     "title": "National Mapping and Resource Information Authority",
     "host": "www.namria.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun 18 23:59:59 2025 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Bureau of Customs",
