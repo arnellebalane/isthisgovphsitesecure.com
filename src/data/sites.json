@@ -62,7 +62,8 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Mar  4 05:36:23 2025 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -79,7 +80,7 @@
     "title": "Department of Labor and Employment",
     "host": "www.dole.gov.ph",
     "status": "VALID",
-    "expiry": "Jan 11 05:57:27 2025 GMT"
+    "expiry": "Mar 11 06:18:12 2025 GMT"
   },
   {
     "title": "Department of National Defense",
@@ -198,7 +199,7 @@
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
     "status": "VALID",
-    "expiry": "Dec 11 23:59:59 2024 GMT"
+    "expiry": "Dec 25 23:59:59 2025 GMT"
   },
   {
     "title": "Philippine National Police",
