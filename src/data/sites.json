@@ -62,8 +62,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Mar  4 05:36:23 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -187,7 +186,7 @@
     "title": "Presidential Legislative Liaison Office",
     "host": "pllo.gov.ph",
     "status": "VALID",
-    "expiry": "Jan 10 21:01:08 2025 GMT"
+    "expiry": "Mar 12 21:59:05 2025 GMT"
   },
   {
     "title": "Presidential Management Staff",
@@ -257,7 +256,8 @@
   {
     "title": "National Mapping and Resource Information Authority",
     "host": "www.namria.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Jun 18 23:59:59 2025 GMT"
   },
   {
     "title": "Bureau of Customs",
