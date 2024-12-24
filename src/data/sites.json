@@ -14,8 +14,7 @@
   {
     "title": "Department of Agrarian Reform",
     "host": "www.dar.gov.ph",
-    "status": "VALID",
-    "expiry": "May 13 22:40:52 2025 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Agriculture",
@@ -110,7 +109,7 @@
     "title": "Department of Tourism",
     "host": "beta.tourism.gov.ph",
     "status": "VALID",
-    "expiry": "Jan 22 03:41:14 2025 GMT"
+    "expiry": "Mar 23 03:19:11 2025 GMT"
   },
   {
     "title": "Department of Trade and Industry",
