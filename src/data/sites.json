@@ -8,8 +8,7 @@
   {
     "title": "Housing and Urban Development Coordinating Council",
     "host": "hudcc.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun 23 23:59:59 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Agrarian Reform",
@@ -19,8 +18,7 @@
   {
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
-    "status": "VALID",
-    "expiry": "Oct 14 04:09:38 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Budget and Management",
@@ -55,8 +53,7 @@
   {
     "title": "Department of Foreign Affairs",
     "host": "www.dfa.gov.ph",
-    "status": "VALID",
-    "expiry": "Sep  9 07:11:11 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Health",
@@ -119,8 +116,7 @@
   {
     "title": "Commission on Higher Education",
     "host": "ched.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun 23 23:59:59 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Commission on Filipino Overseas",
@@ -137,26 +133,22 @@
   {
     "title": "Metropolitan Manila Development Authority",
     "host": "www.mmda.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun 26 23:59:59 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Mindanao Development Authority",
     "host": "minda.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun 23 23:59:59 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "National Anti-Poverty Commission",
     "host": "napc.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun 26 23:59:59 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "National Commission on Muslim FIlipinos",
     "host": "ncmf.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun 26 23:59:59 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "National Economic and Development Authority",
@@ -167,8 +159,7 @@
   {
     "title": "National Security Council",
     "host": "nsc.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 18 23:59:59 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
@@ -243,8 +234,7 @@
   {
     "title": "Bureau of Immigration",
     "host": "immigration.gov.ph",
-    "status": "VALID",
-    "expiry": "Nov 30 00:33:43 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Migrant Workers",
@@ -255,13 +245,11 @@
   {
     "title": "National Mapping and Resource Information Authority",
     "host": "www.namria.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun 18 23:59:59 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Bureau of Customs",
     "host": "customs.gov.ph",
-    "status": "VALID",
-    "expiry": "Sep  5 02:42:46 2025 GMT"
+    "status": "INSECURE"
   }
 ]
