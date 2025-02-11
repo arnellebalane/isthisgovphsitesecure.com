@@ -27,7 +27,7 @@
     "title": "Department of Budget and Management",
     "host": "www.dbm.gov.ph",
     "status": "VALID",
-    "expiry": "Feb 10 16:50:34 2025 GMT"
+    "expiry": "Feb 10 16:01:30 2026 GMT"
   },
   {
     "title": "Department of Education",
@@ -216,7 +216,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "May 19 08:56:09 2025 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
