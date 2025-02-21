@@ -32,7 +32,8 @@
   {
     "title": "Department of Education",
     "host": "www.deped.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Aug 10 06:15:21 2025 GMT"
   },
   {
     "title": "Department of Energy",
