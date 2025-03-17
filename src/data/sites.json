@@ -62,7 +62,8 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "May  2 07:00:04 2025 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -85,7 +86,7 @@
     "title": "Department of National Defense",
     "host": "www.dnd.gov.ph",
     "status": "VALID",
-    "expiry": "Apr 16 03:14:25 2025 GMT"
+    "expiry": "Jun 14 03:26:48 2025 GMT"
   },
   {
     "title": "Department of Public Works and Highways",
