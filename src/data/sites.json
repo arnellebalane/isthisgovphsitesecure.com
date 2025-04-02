@@ -62,8 +62,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "May  2 07:00:04 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -181,7 +180,7 @@
   {
     "title": "Presidential Communications Operations Office",
     "host": "www.pcoo.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "INSECURE"
   },
   {
     "title": "Presidential Legislative Liaison Office",
@@ -210,8 +209,7 @@
   {
     "title": "Social Security System",
     "host": "www.sss.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 22 03:46:01 2025 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "PhilHealth",
