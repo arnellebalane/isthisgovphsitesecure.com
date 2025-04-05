@@ -26,7 +26,8 @@
   {
     "title": "Department of Budget and Management",
     "host": "www.dbm.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Feb 10 16:01:30 2026 GMT"
   },
   {
     "title": "Department of Education",
