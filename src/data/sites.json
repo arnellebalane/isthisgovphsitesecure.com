@@ -62,7 +62,8 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jun 30 08:36:43 2025 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -103,7 +104,7 @@
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
     "status": "VALID",
-    "expiry": "Apr 30 06:25:55 2025 GMT"
+    "expiry": "Apr 10 23:59:59 2026 GMT"
   },
   {
     "title": "Department of Tourism",
