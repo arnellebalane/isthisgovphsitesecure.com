@@ -14,13 +14,14 @@
   {
     "title": "Department of Agrarian Reform",
     "host": "www.dar.gov.ph",
-    "status": "EXPIRED",
-    "expiry": "May 13 22:40:52 2025 GMT"
+    "status": "VALID",
+    "expiry": "Aug 12 23:59:59 2025 GMT"
   },
   {
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Oct 14 04:09:38 2025 GMT"
   },
   {
     "title": "Department of Budget and Management",
@@ -85,7 +86,7 @@
     "title": "Department of National Defense",
     "host": "www.dnd.gov.ph",
     "status": "VALID",
-    "expiry": "Jun 14 03:26:48 2025 GMT"
+    "expiry": "Aug 12 03:42:15 2025 GMT"
   },
   {
     "title": "Department of Public Works and Highways",
@@ -233,7 +234,7 @@
     "title": "Department of Information and Communications Technology",
     "host": "dict.gov.ph",
     "status": "VALID",
-    "expiry": "Jun 11 03:17:12 2025 GMT"
+    "expiry": "Jun 11 03:17:12 2026 GMT"
   },
   {
     "title": "Philippine Statistics Authority",
