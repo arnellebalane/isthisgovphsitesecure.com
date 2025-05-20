@@ -9,7 +9,7 @@
     "title": "Housing and Urban Development Coordinating Council",
     "host": "hudcc.gov.ph",
     "status": "VALID",
-    "expiry": "Jun 23 23:59:59 2025 GMT"
+    "expiry": "Aug 17 06:15:15 2025 GMT"
   },
   {
     "title": "Department of Agrarian Reform",
@@ -62,8 +62,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun 30 08:36:43 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
