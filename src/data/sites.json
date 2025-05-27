@@ -51,7 +51,7 @@
     "title": "Department of Finance",
     "host": "www.dof.gov.ph",
     "status": "VALID",
-    "expiry": "Jun 26 06:44:12 2025 GMT"
+    "expiry": "Aug 24 07:09:26 2025 GMT"
   },
   {
     "title": "Department of Foreign Affairs",
@@ -216,8 +216,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun  9 03:31:11 2026 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
