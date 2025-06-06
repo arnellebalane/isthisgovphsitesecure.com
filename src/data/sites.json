@@ -250,8 +250,7 @@
   {
     "title": "Department of Migrant Workers",
     "host": "dmw.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 28 09:11:03 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "National Mapping and Resource Information Authority",
