@@ -80,7 +80,7 @@
     "title": "Department of Labor and Employment",
     "host": "www.dole.gov.ph",
     "status": "VALID",
-    "expiry": "Jul  7 07:20:19 2025 GMT"
+    "expiry": "Sep  4 07:45:06 2025 GMT"
   },
   {
     "title": "Department of National Defense",
@@ -215,8 +215,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun  9 03:31:11 2026 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
