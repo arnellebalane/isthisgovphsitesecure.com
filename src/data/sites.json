@@ -215,14 +215,13 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun  9 03:31:11 2026 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
     "host": "www.pagibigfund.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 12 13:01:57 2025 GMT"
+    "expiry": "Sep  7 10:35:58 2025 GMT"
   },
   {
     "title": "Climate Change Commission",
@@ -250,8 +249,7 @@
   {
     "title": "Department of Migrant Workers",
     "host": "dmw.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 28 09:11:03 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "National Mapping and Resource Information Authority",
