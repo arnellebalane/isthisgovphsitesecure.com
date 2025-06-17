@@ -215,8 +215,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun  9 03:31:11 2026 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
@@ -256,7 +255,7 @@
     "title": "National Mapping and Resource Information Authority",
     "host": "www.namria.gov.ph",
     "status": "VALID",
-    "expiry": "Jun 18 23:59:59 2025 GMT"
+    "expiry": "Jun 21 23:59:59 2026 GMT"
   },
   {
     "title": "Bureau of Customs",
