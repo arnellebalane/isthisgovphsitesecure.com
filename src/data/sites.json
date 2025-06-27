@@ -14,14 +14,12 @@
   {
     "title": "Department of Agrarian Reform",
     "host": "www.dar.gov.ph",
-    "status": "VALID",
-    "expiry": "Aug 12 23:59:59 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
-    "status": "VALID",
-    "expiry": "Oct 14 04:09:38 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Budget and Management",
