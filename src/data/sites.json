@@ -243,7 +243,8 @@
   {
     "title": "Bureau of Immigration",
     "host": "immigration.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Nov 30 00:33:43 2025 GMT"
   },
   {
     "title": "Department of Migrant Workers",
