@@ -14,7 +14,8 @@
   {
     "title": "Department of Agrarian Reform",
     "host": "www.dar.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Aug 12 23:59:59 2025 GMT"
   },
   {
     "title": "Department of Agriculture",
