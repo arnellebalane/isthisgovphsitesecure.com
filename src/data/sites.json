@@ -132,8 +132,7 @@
   {
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 29 01:06:12 2025 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Metropolitan Manila Development Authority",
@@ -192,7 +191,7 @@
     "title": "Presidential Management Staff",
     "host": "www.pms.gov.ph",
     "status": "VALID",
-    "expiry": "Jul  8 23:59:59 2025 GMT"
+    "expiry": "Jul  4 01:16:42 2026 GMT"
   },
   {
     "title": "Technical Education and Skills Development Authority",
