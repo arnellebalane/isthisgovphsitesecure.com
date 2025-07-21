@@ -3,7 +3,7 @@
     "title": "Office of the Vice President",
     "host": "www.ovp.gov.ph",
     "status": "VALID",
-    "expiry": "Aug 20 13:25:43 2025 GMT"
+    "expiry": "Oct 18 14:22:39 2025 GMT"
   },
   {
     "title": "Housing and Urban Development Coordinating Council",
@@ -237,8 +237,7 @@
   {
     "title": "Philippine Statistics Authority",
     "host": "psa.gov.ph",
-    "status": "VALID",
-    "expiry": "Aug 27 23:59:59 2025 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Bureau of Immigration",
