@@ -91,7 +91,8 @@
   {
     "title": "Department of Public Works and Highways",
     "host": "www.dpwh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Feb  3 16:00:00 2026 GMT"
   },
   {
     "title": "Department of Science and Technology",
@@ -213,7 +214,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jun  9 03:31:11 2026 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
