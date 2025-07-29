@@ -63,7 +63,7 @@
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
     "status": "VALID",
-    "expiry": "Aug 28 10:16:17 2025 GMT"
+    "expiry": "Oct 26 12:06:40 2025 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -132,7 +132,7 @@
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 29 01:06:12 2025 GMT"
+    "expiry": "Jul 28 23:59:59 2026 GMT"
   },
   {
     "title": "Metropolitan Manila Development Authority",
@@ -249,7 +249,7 @@
     "title": "Department of Migrant Workers",
     "host": "dmw.gov.ph",
     "status": "VALID",
-    "expiry": "Jul 28 09:11:03 2025 GMT"
+    "expiry": "Oct 26 23:59:59 2025 GMT"
   },
   {
     "title": "National Mapping and Resource Information Authority",
