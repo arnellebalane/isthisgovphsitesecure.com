@@ -74,7 +74,7 @@
     "title": "Department of Justice",
     "host": "www.doj.gov.ph",
     "status": "VALID",
-    "expiry": "Aug 30 17:05:42 2025 GMT"
+    "expiry": "Oct 28 17:16:53 2025 GMT"
   },
   {
     "title": "Department of Labor and Employment",
@@ -248,8 +248,7 @@
   {
     "title": "Department of Migrant Workers",
     "host": "dmw.gov.ph",
-    "status": "VALID",
-    "expiry": "Oct 26 23:59:59 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "National Mapping and Resource Information Authority",
