@@ -68,7 +68,7 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Justice",
@@ -115,7 +115,7 @@
     "title": "Department of Trade and Industry",
     "host": "www.dti.gov.ph",
     "status": "VALID",
-    "expiry": "Sep  4 23:59:59 2026 GMT"
+    "expiry": "Mar  8 02:41:01 2026 GMT"
   },
   {
     "title": "Commission on Higher Education",
@@ -214,7 +214,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jun  9 03:31:11 2026 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
