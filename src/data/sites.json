@@ -68,7 +68,7 @@
   {
     "title": "Department of the Interior and Local Government",
     "host": "www.dilg.gov.ph",
-    "status": "INSECURE"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Justice",
@@ -179,7 +179,7 @@
   {
     "title": "Presidential Communications Operations Office",
     "host": "www.pcoo.gov.ph",
-    "status": "INSECURE"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Presidential Legislative Liaison Office",
@@ -255,8 +255,7 @@
   {
     "title": "National Mapping and Resource Information Authority",
     "host": "www.namria.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun 21 23:59:59 2026 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Bureau of Customs",
