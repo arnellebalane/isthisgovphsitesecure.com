@@ -115,7 +115,7 @@
     "title": "Department of Trade and Industry",
     "host": "www.dti.gov.ph",
     "status": "VALID",
-    "expiry": "Mar  8 02:41:01 2026 GMT"
+    "expiry": "Sep  4 23:59:59 2026 GMT"
   },
   {
     "title": "Commission on Higher Education",
@@ -179,7 +179,7 @@
   {
     "title": "Presidential Communications Operations Office",
     "host": "www.pcoo.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "INSECURE"
   },
   {
     "title": "Presidential Legislative Liaison Office",
@@ -255,7 +255,8 @@
   {
     "title": "National Mapping and Resource Information Authority",
     "host": "www.namria.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Jun 21 23:59:59 2026 GMT"
   },
   {
     "title": "Bureau of Customs",
