@@ -103,7 +103,8 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Apr 11 23:59:59 2026 GMT"
   },
   {
     "title": "Department of Tourism",
@@ -236,8 +237,7 @@
   {
     "title": "Philippine Statistics Authority",
     "host": "psa.gov.ph",
-    "status": "VALID",
-    "expiry": "Aug 27 23:59:59 2025 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Bureau of Immigration",
