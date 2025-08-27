@@ -115,7 +115,7 @@
     "title": "Department of Trade and Industry",
     "host": "www.dti.gov.ph",
     "status": "VALID",
-    "expiry": "Sep  4 23:59:59 2026 GMT"
+    "expiry": "Sep 23 23:59:59 2026 GMT"
   },
   {
     "title": "Commission on Higher Education",
@@ -214,8 +214,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun  9 03:31:11 2026 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
