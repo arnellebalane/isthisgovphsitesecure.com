@@ -214,7 +214,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jun  9 03:31:11 2026 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
@@ -237,7 +238,7 @@
     "title": "Philippine Statistics Authority",
     "host": "psa.gov.ph",
     "status": "VALID",
-    "expiry": "Aug 27 23:59:59 2025 GMT"
+    "expiry": "Aug 27 23:59:59 2026 GMT"
   },
   {
     "title": "Bureau of Immigration",
