@@ -214,7 +214,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "INSECURE"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Pag-IBIG Fund",
@@ -261,6 +261,6 @@
     "title": "Bureau of Customs",
     "host": "customs.gov.ph",
     "status": "VALID",
-    "expiry": "Sep  5 02:42:46 2025 GMT"
+    "expiry": "Sep  5 02:42:46 2026 GMT"
   }
 ]
