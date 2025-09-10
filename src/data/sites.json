@@ -56,14 +56,13 @@
   {
     "title": "Department of Foreign Affairs",
     "host": "www.dfa.gov.ph",
-    "status": "VALID",
+    "status": "EXPIRED",
     "expiry": "Sep  9 07:11:11 2025 GMT"
   },
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Oct 26 12:06:40 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -86,7 +85,7 @@
     "title": "Department of National Defense",
     "host": "www.dnd.gov.ph",
     "status": "VALID",
-    "expiry": "Oct 10 04:02:19 2025 GMT"
+    "expiry": "Dec  8 04:13:03 2025 GMT"
   },
   {
     "title": "Department of Public Works and Highways",
@@ -214,7 +213,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jun  9 03:31:11 2026 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
