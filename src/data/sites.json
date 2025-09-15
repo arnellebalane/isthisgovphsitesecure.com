@@ -9,7 +9,7 @@
     "title": "Housing and Urban Development Coordinating Council",
     "host": "hudcc.gov.ph",
     "status": "VALID",
-    "expiry": "Oct 15 06:37:59 2025 GMT"
+    "expiry": "Dec 13 22:01:02 2025 GMT"
   },
   {
     "title": "Department of Agrarian Reform",
@@ -214,8 +214,7 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun  9 03:31:11 2026 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Pag-IBIG Fund",
