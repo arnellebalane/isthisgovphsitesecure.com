@@ -62,8 +62,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Oct 26 12:06:40 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -115,7 +114,7 @@
     "title": "Department of Trade and Industry",
     "host": "www.dti.gov.ph",
     "status": "VALID",
-    "expiry": "Nov 24 04:37:19 2025 GMT"
+    "expiry": "Sep 23 23:59:59 2026 GMT"
   },
   {
     "title": "Commission on Higher Education",
@@ -214,7 +213,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jun  9 03:31:11 2026 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
@@ -248,8 +248,7 @@
   {
     "title": "Department of Migrant Workers",
     "host": "dmw.gov.ph",
-    "status": "VALID",
-    "expiry": "Oct 26 23:59:59 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "National Mapping and Resource Information Authority",
