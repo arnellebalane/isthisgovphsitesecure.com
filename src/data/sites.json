@@ -3,7 +3,7 @@
     "title": "Office of the Vice President",
     "host": "www.ovp.gov.ph",
     "status": "VALID",
-    "expiry": "Oct 18 14:22:39 2025 GMT"
+    "expiry": "Dec 16 15:20:16 2025 GMT"
   },
   {
     "title": "Housing and Urban Development Coordinating Council",
@@ -249,8 +249,7 @@
   {
     "title": "Department of Migrant Workers",
     "host": "dmw.gov.ph",
-    "status": "VALID",
-    "expiry": "Aug  5 06:06:01 2026 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "National Mapping and Resource Information Authority",
