@@ -51,7 +51,7 @@
     "title": "Department of Finance",
     "host": "www.dof.gov.ph",
     "status": "VALID",
-    "expiry": "Oct 22 07:36:39 2025 GMT"
+    "expiry": "Dec 20 08:09:53 2025 GMT"
   },
   {
     "title": "Department of Foreign Affairs",
@@ -103,7 +103,8 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Apr 11 23:59:59 2026 GMT"
   },
   {
     "title": "Department of Tourism",
