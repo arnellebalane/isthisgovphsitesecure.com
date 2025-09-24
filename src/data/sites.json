@@ -62,8 +62,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Oct 26 12:06:40 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -150,7 +149,7 @@
     "title": "National Anti-Poverty Commission",
     "host": "napc.gov.ph",
     "status": "VALID",
-    "expiry": "Jul  2 06:27:08 2026 GMT"
+    "expiry": "May 20 10:24:10 2026 GMT"
   },
   {
     "title": "National Commission on Muslim FIlipinos",
@@ -214,7 +213,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jun  9 03:31:11 2026 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
