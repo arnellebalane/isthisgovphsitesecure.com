@@ -20,8 +20,7 @@
   {
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
-    "status": "VALID",
-    "expiry": "Oct 14 04:09:38 2025 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Budget and Management",
@@ -131,8 +130,7 @@
   {
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 28 23:59:59 2026 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Metropolitan Manila Development Authority",
@@ -174,7 +172,7 @@
     "title": "Office of the Presidential Adviser on the Peace Process",
     "host": "peace.gov.ph",
     "status": "VALID",
-    "expiry": "Nov 10 17:16:27 2025 GMT"
+    "expiry": "Jan  8 18:15:08 2026 GMT"
   },
   {
     "title": "Presidential Communications Operations Office",
