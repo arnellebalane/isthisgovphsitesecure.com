@@ -10,6 +10,10 @@
   "keywords": [],
   "author": "Arnelle Balane <arnellebalane@gmail.com>",
   "license": "MIT",
+  "engines": {
+    "node": "23.9.0",
+    "npm": "11.6.1"
+  },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.14",
     "pinia": "^3.0.3",
