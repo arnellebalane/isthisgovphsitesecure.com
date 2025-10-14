@@ -2,7 +2,7 @@
 
 Show which `gov.ph` sites are secure and when their SSL certificates expire
 
-![preview.jpg](preview.jpg)
+![preview.jpg](.github/preview.jpg)
 
 ## Contributing
 
@@ -37,4 +37,4 @@ Then run the `scripts/update-data.js` script to fetch its certificate informatio
 
 ## License
 
-[MIT License](license)
+[MIT License](./LICENSE)
