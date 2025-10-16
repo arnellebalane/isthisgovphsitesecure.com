@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" style="font-size: 62.5%">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -10,6 +10,7 @@
       href="https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600;700;800;900&display=swap"
     />
     <link rel="shortcut icon" href="/favicon.png" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
     <title>Is this gov.ph site secure?</title>
 
@@ -24,8 +25,9 @@
     <meta name="twitter:card" content="summary_large_image" />
   </head>
 
-  <body>
-    <div id="app"></div>
-    <script type="module" src="./src/index.js"></script>
+  <body
+    class="w-full min-h-dvh flex flex-col lg:place-items-center box-border gap-4 md:gap-10 p-4 md:p-10 bg-neutral-100 font-inter"
+  >
+    <script type="module" src="./src/main.ts"></script>
   </body>
 </html>
