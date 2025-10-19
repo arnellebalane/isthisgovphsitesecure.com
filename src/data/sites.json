@@ -62,7 +62,8 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Dec 24 13:36:59 2025 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -235,7 +236,7 @@
     "title": "Philippine Statistics Authority",
     "host": "psa.gov.ph",
     "status": "VALID",
-    "expiry": "Aug 27 23:59:59 2026 GMT"
+    "expiry": "Jan 16 02:53:27 2026 GMT"
   },
   {
     "title": "Bureau of Immigration",
