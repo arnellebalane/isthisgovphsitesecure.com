@@ -86,7 +86,7 @@
     "title": "Department of National Defense",
     "host": "www.dnd.gov.ph",
     "status": "VALID",
-    "expiry": "Dec  8 04:13:03 2025 GMT"
+    "expiry": "Feb  5 04:26:33 2026 GMT"
   },
   {
     "title": "Department of Public Works and Highways",
@@ -248,7 +248,8 @@
   {
     "title": "Department of Migrant Workers",
     "host": "dmw.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Aug  5 06:06:01 2026 GMT"
   },
   {
     "title": "National Mapping and Resource Information Authority",
