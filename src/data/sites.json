@@ -3,7 +3,7 @@
     "title": "Office of the Vice President",
     "host": "www.ovp.gov.ph",
     "status": "VALID",
-    "expiry": "Dec 16 15:20:16 2025 GMT"
+    "expiry": "Feb 13 16:01:39 2026 GMT"
   },
   {
     "title": "Housing and Urban Development Coordinating Council",
@@ -44,7 +44,7 @@
   {
     "title": "Department of Environment and Natural Resources",
     "host": "denr.gov.ph",
-    "status": "VALID",
+    "status": "EXPIRED",
     "expiry": "Nov 15 07:31:28 2025 GMT"
   },
   {
@@ -62,8 +62,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Dec 24 13:36:59 2025 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -213,7 +212,8 @@
   {
     "title": "PhilHealth",
     "host": "www.philhealth.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jun  9 03:31:11 2026 GMT"
   },
   {
     "title": "Pag-IBIG Fund",
