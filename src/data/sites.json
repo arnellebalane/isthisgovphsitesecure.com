@@ -44,8 +44,8 @@
   {
     "title": "Department of Environment and Natural Resources",
     "host": "denr.gov.ph",
-    "status": "EXPIRED",
-    "expiry": "Nov 15 07:31:28 2025 GMT"
+    "status": "VALID",
+    "expiry": "Dec 15 23:59:59 2026 GMT"
   },
   {
     "title": "Department of Finance",
@@ -62,7 +62,8 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Dec 24 13:36:59 2025 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
