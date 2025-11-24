@@ -62,7 +62,8 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Feb 21 15:15:57 2026 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -130,7 +131,8 @@
   {
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Jul 28 23:59:59 2026 GMT"
   },
   {
     "title": "Metropolitan Manila Development Authority",
