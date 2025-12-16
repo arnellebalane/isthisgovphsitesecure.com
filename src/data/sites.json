@@ -126,7 +126,8 @@
   {
     "title": "Commission on Filipino Overseas",
     "host": "www.cfo.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Oct 13 06:56:06 2026 GMT"
   },
   {
     "title": "Governance Commission for GOCC's",
