@@ -9,7 +9,7 @@
     "title": "Housing and Urban Development Coordinating Council",
     "host": "hudcc.gov.ph",
     "status": "VALID",
-    "expiry": "Feb 10 22:09:50 2026 GMT"
+    "expiry": "Apr 10 22:23:46 2026 GMT"
   },
   {
     "title": "Department of Agrarian Reform",
@@ -184,7 +184,8 @@
   {
     "title": "Presidential Legislative Liaison Office",
     "host": "pllo.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Mar  8 21:57:18 2026 GMT"
   },
   {
     "title": "Presidential Management Staff",
