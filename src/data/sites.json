@@ -184,7 +184,8 @@
   {
     "title": "Presidential Legislative Liaison Office",
     "host": "pllo.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Mar  8 21:57:18 2026 GMT"
   },
   {
     "title": "Presidential Management Staff",
