@@ -51,7 +51,7 @@
     "title": "Department of Finance",
     "host": "www.dof.gov.ph",
     "status": "VALID",
-    "expiry": "Feb 17 08:59:22 2026 GMT"
+    "expiry": "Apr 17 11:38:48 2026 GMT"
   },
   {
     "title": "Department of Foreign Affairs",
@@ -114,8 +114,8 @@
   {
     "title": "Department of Trade and Industry",
     "host": "www.dti.gov.ph",
-    "status": "VALID",
-    "expiry": "Sep 23 23:59:59 2026 GMT"
+    "status": "EXPIRED",
+    "expiry": "Feb 10 05:41:01 2024 GMT"
   },
   {
     "title": "Commission on Higher Education",
@@ -184,7 +184,8 @@
   {
     "title": "Presidential Legislative Liaison Office",
     "host": "pllo.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Mar  8 21:57:18 2026 GMT"
   },
   {
     "title": "Presidential Management Staff",
