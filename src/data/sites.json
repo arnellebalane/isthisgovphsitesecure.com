@@ -62,8 +62,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Feb 21 15:15:57 2026 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -114,8 +113,8 @@
   {
     "title": "Department of Trade and Industry",
     "host": "www.dti.gov.ph",
-    "status": "EXPIRED",
-    "expiry": "Feb 10 05:41:01 2024 GMT"
+    "status": "VALID",
+    "expiry": "Sep 23 23:59:59 2026 GMT"
   },
   {
     "title": "Commission on Higher Education",
@@ -221,7 +220,7 @@
     "title": "Pag-IBIG Fund",
     "host": "www.pagibigfund.gov.ph",
     "status": "VALID",
-    "expiry": "Feb 25 03:18:14 2026 GMT"
+    "expiry": "Apr 18 12:23:16 2026 GMT"
   },
   {
     "title": "Climate Change Commission",
