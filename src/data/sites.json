@@ -62,7 +62,8 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Feb 21 15:15:57 2026 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -91,7 +92,7 @@
     "title": "Department of Public Works and Highways",
     "host": "www.dpwh.gov.ph",
     "status": "VALID",
-    "expiry": "Feb  3 16:00:00 2026 GMT"
+    "expiry": "Feb 20 23:59:59 2027 GMT"
   },
   {
     "title": "Department of Science and Technology",
