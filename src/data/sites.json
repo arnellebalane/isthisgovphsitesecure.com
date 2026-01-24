@@ -62,7 +62,8 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Apr 21 16:41:38 2026 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -73,7 +74,7 @@
     "title": "Department of Justice",
     "host": "www.doj.gov.ph",
     "status": "VALID",
-    "expiry": "Feb 23 17:51:10 2026 GMT"
+    "expiry": "Apr 23 22:53:16 2026 GMT"
   },
   {
     "title": "Department of Labor and Employment",
