@@ -80,7 +80,7 @@
     "title": "Department of Labor and Employment",
     "host": "www.dole.gov.ph",
     "status": "VALID",
-    "expiry": "Feb 28 08:44:38 2026 GMT"
+    "expiry": "Apr 28 09:00:56 2026 GMT"
   },
   {
     "title": "Department of National Defense",
@@ -184,8 +184,7 @@
   {
     "title": "Presidential Legislative Liaison Office",
     "host": "pllo.gov.ph",
-    "status": "VALID",
-    "expiry": "Mar  8 21:57:18 2026 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Presidential Management Staff",
