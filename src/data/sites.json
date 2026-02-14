@@ -238,7 +238,7 @@
     "title": "Philippine Statistics Authority",
     "host": "psa.gov.ph",
     "status": "VALID",
-    "expiry": "Mar 16 06:00:04 2026 GMT"
+    "expiry": "May 14 04:43:20 2026 GMT"
   },
   {
     "title": "Bureau of Immigration",
@@ -255,8 +255,7 @@
   {
     "title": "National Mapping and Resource Information Authority",
     "host": "www.namria.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun 21 23:59:59 2026 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Bureau of Customs",
