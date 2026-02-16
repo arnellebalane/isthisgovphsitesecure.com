@@ -62,8 +62,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 21 16:41:38 2026 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -243,7 +242,8 @@
   {
     "title": "Bureau of Immigration",
     "host": "immigration.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Dec 14 23:59:59 2026 GMT"
   },
   {
     "title": "Department of Migrant Workers",
