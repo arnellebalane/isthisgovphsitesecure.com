@@ -39,7 +39,7 @@
     "title": "Department of Energy",
     "host": "www.doe.gov.ph",
     "status": "VALID",
-    "expiry": "Apr  9 18:24:38 2026 GMT"
+    "expiry": "Jun  7 18:40:58 2026 GMT"
   },
   {
     "title": "Department of Environment and Natural Resources",
@@ -62,7 +62,8 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Apr 21 16:41:38 2026 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -242,7 +243,8 @@
   {
     "title": "Bureau of Immigration",
     "host": "immigration.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Dec 14 23:59:59 2026 GMT"
   },
   {
     "title": "Department of Migrant Workers",
