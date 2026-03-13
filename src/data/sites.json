@@ -62,8 +62,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Apr 21 16:41:38 2026 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -249,7 +248,8 @@
   {
     "title": "Department of Migrant Workers",
     "host": "dmw.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Aug  5 06:06:01 2026 GMT"
   },
   {
     "title": "National Mapping and Resource Information Authority",
