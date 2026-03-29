@@ -79,7 +79,7 @@
     "title": "Department of Labor and Employment",
     "host": "www.dole.gov.ph",
     "status": "VALID",
-    "expiry": "Apr 28 09:00:56 2026 GMT"
+    "expiry": "Jun 26 09:16:12 2026 GMT"
   },
   {
     "title": "Department of National Defense",
@@ -131,8 +131,7 @@
   {
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 28 23:59:59 2026 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Metropolitan Manila Development Authority",
