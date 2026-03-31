@@ -14,13 +14,13 @@
   {
     "title": "Department of Agrarian Reform",
     "host": "www.dar.gov.ph",
-    "status": "VALID",
-    "expiry": "Jul 25 23:59:59 2026 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Dec  1 23:59:59 2026 GMT"
   },
   {
     "title": "Department of Budget and Management",
@@ -61,8 +61,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Jun 19 18:08:10 2026 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -132,7 +131,7 @@
     "title": "Governance Commission for GOCC's",
     "host": "gcg.gov.ph",
     "status": "VALID",
-    "expiry": "Apr 30 08:38:36 2026 GMT"
+    "expiry": "Jun 28 09:04:12 2026 GMT"
   },
   {
     "title": "Metropolitan Manila Development Authority",
