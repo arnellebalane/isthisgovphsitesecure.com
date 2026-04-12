@@ -103,7 +103,7 @@
   {
     "title": "Department of Social Welfare and Development",
     "host": "www.dswd.gov.ph",
-    "status": "VALID",
+    "status": "EXPIRED",
     "expiry": "Apr 11 23:59:59 2026 GMT"
   },
   {
@@ -114,7 +114,8 @@
   {
     "title": "Department of Trade and Industry",
     "host": "www.dti.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Sep 16 23:59:59 2026 GMT"
   },
   {
     "title": "Commission on Higher Education",
@@ -184,7 +185,7 @@
     "title": "Presidential Legislative Liaison Office",
     "host": "pllo.gov.ph",
     "status": "VALID",
-    "expiry": "May  8 21:52:48 2026 GMT"
+    "expiry": "Jul 10 20:46:14 2026 GMT"
   },
   {
     "title": "Presidential Management Staff",
