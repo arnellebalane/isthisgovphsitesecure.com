@@ -62,7 +62,8 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jun 19 18:08:10 2026 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -144,19 +145,19 @@
     "title": "Mindanao Development Authority",
     "host": "minda.gov.ph",
     "status": "VALID",
-    "expiry": "May 20 09:46:12 2026 GMT"
+    "expiry": "Nov  6 09:32:46 2026 GMT"
   },
   {
     "title": "National Anti-Poverty Commission",
     "host": "napc.gov.ph",
     "status": "VALID",
-    "expiry": "May 20 10:24:10 2026 GMT"
+    "expiry": "Nov  6 06:21:10 2026 GMT"
   },
   {
     "title": "National Commission on Muslim FIlipinos",
     "host": "ncmf.gov.ph",
     "status": "VALID",
-    "expiry": "May 20 10:41:24 2026 GMT"
+    "expiry": "Nov  6 06:26:27 2026 GMT"
   },
   {
     "title": "National Economic and Development Authority",
@@ -242,7 +243,8 @@
   {
     "title": "Bureau of Immigration",
     "host": "immigration.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Dec 14 23:59:59 2026 GMT"
   },
   {
     "title": "Department of Migrant Workers",
