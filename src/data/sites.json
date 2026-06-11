@@ -62,7 +62,8 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Aug 17 19:41:18 2026 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -202,7 +203,7 @@
     "title": "Philippine National Police",
     "host": "pnp.gov.ph",
     "status": "VALID",
-    "expiry": "Jun 26 02:48:12 2026 GMT"
+    "expiry": "Dec 18 06:54:34 2026 GMT"
   },
   {
     "title": "Social Security System",
