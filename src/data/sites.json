@@ -62,8 +62,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Aug 17 19:41:18 2026 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -168,7 +167,7 @@
     "title": "National Security Council",
     "host": "nsc.gov.ph",
     "status": "VALID",
-    "expiry": "Jul  2 02:59:09 2026 GMT"
+    "expiry": "Dec 25 02:15:55 2026 GMT"
   },
   {
     "title": "Office of the Presidential Adviser on the Peace Process",
