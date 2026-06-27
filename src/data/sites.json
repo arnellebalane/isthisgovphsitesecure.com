@@ -44,8 +44,7 @@
   {
     "title": "Department of Environment and Natural Resources",
     "host": "denr.gov.ph",
-    "status": "VALID",
-    "expiry": "Dec 18 23:59:59 2026 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Finance",
@@ -196,7 +195,8 @@
   {
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Jan 21 23:59:59 2027 GMT"
   },
   {
     "title": "Philippine National Police",
