@@ -97,8 +97,7 @@
   {
     "title": "Department of Science and Technology",
     "host": "www.dost.gov.ph",
-    "status": "VALID",
-    "expiry": "Nov 21 01:56:08 2026 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of Social Welfare and Development",
@@ -221,7 +220,7 @@
     "title": "Pag-IBIG Fund",
     "host": "www.pagibigfund.gov.ph",
     "status": "VALID",
-    "expiry": "Aug  5 07:06:14 2026 GMT"
+    "expiry": "Sep 29 00:29:48 2026 GMT"
   },
   {
     "title": "Climate Change Commission",
