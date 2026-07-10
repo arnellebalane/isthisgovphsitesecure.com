@@ -3,7 +3,7 @@
     "title": "Office of the Vice President",
     "host": "www.ovp.gov.ph",
     "status": "VALID",
-    "expiry": "Aug  9 23:27:59 2026 GMT"
+    "expiry": "Oct  8 01:28:15 2026 GMT"
   },
   {
     "title": "Housing and Urban Development Coordinating Council",
@@ -62,8 +62,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Aug 17 19:41:18 2026 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
