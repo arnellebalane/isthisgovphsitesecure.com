@@ -196,8 +196,7 @@
   {
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
-    "status": "VALID",
-    "expiry": "Jan 21 23:59:59 2027 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Philippine National Police",
