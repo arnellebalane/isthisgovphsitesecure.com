@@ -63,7 +63,7 @@
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
     "status": "VALID",
-    "expiry": "Aug 17 19:41:18 2026 GMT"
+    "expiry": "Oct 15 21:12:55 2026 GMT"
   },
   {
     "title": "Department of the Interior and Local Government",
@@ -121,7 +121,7 @@
     "title": "Commission on Higher Education",
     "host": "ched.gov.ph",
     "status": "VALID",
-    "expiry": "Aug 17 17:30:55 2026 GMT"
+    "expiry": "Oct 15 18:22:16 2026 GMT"
   },
   {
     "title": "Commission on Filipino Overseas",
@@ -196,7 +196,8 @@
   {
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
-    "status": "INSECURE"
+    "status": "VALID",
+    "expiry": "Jan 21 23:59:59 2027 GMT"
   },
   {
     "title": "Philippine National Police",
