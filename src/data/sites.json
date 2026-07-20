@@ -73,7 +73,7 @@
     "title": "Department of Justice",
     "host": "www.doj.gov.ph",
     "status": "VALID",
-    "expiry": "Aug 20 00:06:08 2026 GMT"
+    "expiry": "Oct 18 00:30:35 2026 GMT"
   },
   {
     "title": "Department of Labor and Employment",
@@ -242,7 +242,8 @@
   {
     "title": "Bureau of Immigration",
     "host": "immigration.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Dec 14 23:59:59 2026 GMT"
   },
   {
     "title": "Department of Migrant Workers",
