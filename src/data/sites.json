@@ -33,7 +33,7 @@
     "title": "Department of Education",
     "host": "www.deped.gov.ph",
     "status": "VALID",
-    "expiry": "Aug  2 02:05:30 2026 GMT"
+    "expiry": "Feb 14 08:02:16 2027 GMT"
   },
   {
     "title": "Department of Energy",
@@ -62,8 +62,7 @@
   {
     "title": "Department of Health",
     "host": "www.doh.gov.ph",
-    "status": "VALID",
-    "expiry": "Oct 15 21:12:55 2026 GMT"
+    "status": "INSECURE"
   },
   {
     "title": "Department of the Interior and Local Government",
