@@ -109,7 +109,8 @@
   {
     "title": "Department of Tourism",
     "host": "beta.tourism.gov.ph",
-    "status": "UNREACHABLE"
+    "status": "VALID",
+    "expiry": "Oct 12 06:26:04 2026 GMT"
   },
   {
     "title": "Department of Trade and Industry",
@@ -250,7 +251,7 @@
     "title": "Department of Migrant Workers",
     "host": "dmw.gov.ph",
     "status": "VALID",
-    "expiry": "Aug  5 06:06:01 2026 GMT"
+    "expiry": "Feb 18 10:01:25 2027 GMT"
   },
   {
     "title": "National Mapping and Resource Information Authority",
