@@ -197,8 +197,7 @@
   {
     "title": "Technical Education and Skills Development Authority",
     "host": "www.tesda.gov.ph",
-    "status": "VALID",
-    "expiry": "Jan 21 23:59:59 2027 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Philippine National Police",
@@ -239,7 +238,7 @@
     "title": "Philippine Statistics Authority",
     "host": "psa.gov.ph",
     "status": "VALID",
-    "expiry": "Sep  9 08:17:43 2026 GMT"
+    "expiry": "Nov  7 11:16:43 2026 GMT"
   },
   {
     "title": "Bureau of Immigration",
