@@ -20,8 +20,7 @@
   {
     "title": "Department of Agriculture",
     "host": "www.da.gov.ph",
-    "status": "VALID",
-    "expiry": "Dec  1 23:59:59 2026 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Department of Budget and Management",
@@ -92,7 +91,7 @@
     "title": "Department of Public Works and Highways",
     "host": "www.dpwh.gov.ph",
     "status": "VALID",
-    "expiry": "Sep 21 07:01:55 2026 GMT"
+    "expiry": "Feb 27 23:59:59 2027 GMT"
   },
   {
     "title": "Department of Science and Technology",
