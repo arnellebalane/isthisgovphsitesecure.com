@@ -86,7 +86,7 @@
     "title": "Department of National Defense",
     "host": "www.dnd.gov.ph",
     "status": "VALID",
-    "expiry": "Sep 29 05:27:39 2026 GMT"
+    "expiry": "Nov 27 05:46:17 2026 GMT"
   },
   {
     "title": "Department of Public Works and Highways",
@@ -256,8 +256,7 @@
   {
     "title": "National Mapping and Resource Information Authority",
     "host": "www.namria.gov.ph",
-    "status": "VALID",
-    "expiry": "Dec 25 23:59:59 2026 GMT"
+    "status": "UNREACHABLE"
   },
   {
     "title": "Bureau of Customs",
