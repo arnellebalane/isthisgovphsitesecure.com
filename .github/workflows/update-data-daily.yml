@@ -1,7 +1,4 @@
 name: Update data
-on:
-  schedule:
-    - cron: "0 0 * * *"
 
 jobs:
   update_data:
